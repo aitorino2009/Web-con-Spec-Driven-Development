@@ -26,3 +26,8 @@
 1. **Componentes:** Logo (Izquierda), Enlaces (Centro), Selector de Idioma + Botón CTA (Derecha).
 2. **Interactividad:** El selector de idioma debe ser un componente separado con su propio `.module.css`.
 3. **Lógica:** El estado del idioma debe persistir en la URL (ej. /es/landing o /en/landing).
+
+# Sistema de Memoria (Engram)
+- **Ubicación:** `.agent/engram/`
+- **Protocolo:** Aprendizaje Silencioso.
+- **Instrucción:** Antes de cada tarea, consulta `memoria-proyecto.md` para asegurar que la solución respeta las decisiones históricas del arquitecto. Después de cada tarea, actualiza el archivo con nuevos aprendizajes.
