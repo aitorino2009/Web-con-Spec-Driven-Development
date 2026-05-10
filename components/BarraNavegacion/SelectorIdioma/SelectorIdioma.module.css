@@ -1,0 +1,39 @@
+.contenedor {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--fuente-principal);
+    font-weight: 600;
+}
+
+.separador {
+    color: var(--color-texto); /* Negro para texto */
+    font-size: 1rem;
+    user-select: none;
+}
+
+.boton {
+    background: transparent;
+    border: 2px solid transparent; /* Reservado para el estado activo */
+    color: var(--color-texto); /* Negro para texto */
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: all 0.15s ease-in-out;
+}
+
+/* Hover vibrante: Verde Lima Suave, sin negro de fondo */
+.boton:hover:not(.activo) {
+    background-color: var(--color-secundario);
+    transform: translateY(-1px);
+}
+
+/* Activo: Verde Lima Vibrante con estructura neo-brutalista fina */
+.boton.activo {
+    background-color: var(--color-primario);
+    border: 2px solid var(--color-texto); /* Borde estructural en negro */
+    box-shadow: 2px 2px 0px var(--color-texto); /* Sombra sólida estructural */
+    pointer-events: none; /* Desactiva clic si ya está activo */
+}

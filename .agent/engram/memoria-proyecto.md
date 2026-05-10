@@ -22,3 +22,6 @@
 ## Decisiones de Componentes
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`. Spec cerrada. Pendiente: Logo, EnlacesNav, SelectorIdioma y BotonCTA.
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
+- **SelectorIdioma:** COMPLETADO. Componente de cliente minimalista (ES | EN) con diseño Neo-brutalista vibrante. Regla estricta: Negro solo para texto.
+- **Internacionalización (i18n):** Implementado sistema nativo de diccionarios JSON (`dictionaries/`) y cargador asíncrono (`lib/get-dictionary.ts`) para Server Components.
+- **Logo (RAW STITCH):** EN ESPECIFICACIÓN. Puramente tipográfico (fuente Syne), estilo neo-brutalista vibrante con contorno y sombra sólida. Fondos siempre vibrantes.
