@@ -1,0 +1,33 @@
+:root {
+    /* --- Paleta Cyber-Lime --- */
+    --color-fondo: #FFFFFF;
+    /* Blanco */
+    --color-texto: #000000;
+    /* Negro */
+    --color-primario: #B3FF00;
+    /* Verde Lima Vibrante (Botones, Destacados) */
+    --color-secundario: #E6FFAC;
+    /* Verde Lima Suave (Fondos de sección) */
+    --color-acento: #FFD3B4;
+    /* Crema (Tarjetas, detalles divertidos) */
+
+    /* --- Estética Neo-brutalista --- */
+    --borde-grueso: 3px solid #000000;
+    --sombra-solida: 5px 5px 0px #000000;
+
+    /* --- Tipografía --- */
+    --fuente-principal: 'Inter', system-ui, sans-serif;
+}
+
+/* Reset básico para asegurar que el diseño sea "perfecto" */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    font-family: var(--fuente-principal);
+}
