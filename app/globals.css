@@ -5,21 +5,21 @@
     --color-texto: #000000;
     /* Negro */
     --color-primario: #B3FF00;
-    /* Verde Lima Vibrante (Botones, Destacados) */
+    /* Verde Lima Vibrante */
     --color-secundario: #E6FFAC;
-    /* Verde Lima Suave (Fondos de sección) */
+    /* Verde Lima Suave */
     --color-acento: #FFD3B4;
-    /* Crema (Tarjetas, detalles divertidos) */
+    /* Crema */
 
     /* --- Estética Neo-brutalista --- */
     --borde-grueso: 3px solid #000000;
     --sombra-solida: 5px 5px 0px #000000;
+    --radio-borde: 12px;
 
     /* --- Tipografía --- */
     --fuente-principal: 'Inter', system-ui, sans-serif;
 }
 
-/* Reset básico para asegurar que el diseño sea "perfecto" */
 * {
     box-sizing: border-box;
     padding: 0;
