@@ -1,0 +1,49 @@
+/*
+ * BarraNavegacion.module.css
+ * Estilos del contenedor principal de la barra de navegación.
+ * Paleta: Cyber-Lime | Estética: Neo-brutalista
+ * REGLA: Prohibido usar valores fijos. Solo variables de app/globals.css.
+ */
+
+.contenedor {
+    /* --- Layout --- */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 24px;
+    width: 100%;
+
+    /* --- Posicionamiento --- */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    /* --- Estética Neo-brutalista --- */
+    background-color: var(--color-primario);
+    border-bottom: var(--borde-grueso);
+}
+
+/* --- Zonas del Navbar --- */
+
+.zonaIzquierda {
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.zonaCentro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+}
+
+.zonaDerecha {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+    gap: 12px;
+}

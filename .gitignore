@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Next.js (Caché y Build)
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Varios
+.DS_Store
+*.log
+.env*
