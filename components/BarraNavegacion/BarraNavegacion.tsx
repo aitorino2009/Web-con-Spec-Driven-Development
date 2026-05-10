@@ -9,6 +9,7 @@
  *   - Derecha:   Espacio para Acciones - Selector de idioma + CTA (pendiente).
  */
 
+import SelectorIdioma from './SelectorIdioma/SelectorIdioma';
 import estilos from './BarraNavegacion.module.css';
 
 export default function BarraNavegacion() {
@@ -26,7 +27,7 @@ export default function BarraNavegacion() {
 
             {/* --- Zona Derecha: Acciones --- */}
             <div className={estilos.zonaDerecha}>
-                {/* TODO: Componente <SelectorIdioma /> */}
+                <SelectorIdioma />
                 {/* TODO: Componente <BotonCTA /> */}
             </div>
         </header>
