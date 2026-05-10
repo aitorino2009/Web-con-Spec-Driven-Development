@@ -31,3 +31,8 @@
 - **Ubicación:** `.agent/engram/`
 - **Protocolo:** Aprendizaje Silencioso.
 - **Instrucción:** Antes de cada tarea, consulta `memoria-proyecto.md` para asegurar que la solución respeta las decisiones históricas del arquitecto. Después de cada tarea, actualiza el archivo con nuevos aprendizajes.
+
+# Protocolo de Ejecución
+1. **Consulta de Memoria:** Antes de cada respuesta, lee `.agent/engram/memoria-proyecto.md`.
+2. **Uso de Skills:** Si la tarea es de estilos, aplica `.agent/skills/estilos.md`. Si es de archivos, aplica `.agent/skills/estructura-archivos.md`.
+3. **Actualización:** Al terminar, resume la decisión en la memoria del proyecto.
