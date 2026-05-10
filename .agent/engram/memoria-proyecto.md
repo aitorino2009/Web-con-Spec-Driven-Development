@@ -6,6 +6,7 @@
 - **Estética:** Prohibido el uso de Tailwind CSS.
 - **Arquitectura de Estilos:** Uso estricto de CSS Modules (.module.css).
 - **Estructura:** Componentes aislados (Lógica + Estilo en la misma carpeta).
+- **Uso del Color Negro:** El color negro (#000000) se reserva para el **texto y elementos estructurales** (bordes y sombras del estilo neo-brutalista). Queda totalmente prohibido su uso en fondos o bloques de color grandes para evitar una estética cyberpunk oscura y mantener el enfoque Cyber-Lime.
 
 ## Aprendizajes Recientes
 - El usuario prefiere un flujo de trabajo de "Aprendizaje Silencioso".
@@ -21,4 +22,3 @@
 ## Decisiones de Componentes
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`. Spec cerrada. Pendiente: Logo, EnlacesNav, SelectorIdioma y BotonCTA.
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
-    - **Estilo:** Neo-brutalismo (Bordes gruesos de 3px y sombras sólidas de 5px en negro).
