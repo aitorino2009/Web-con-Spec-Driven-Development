@@ -21,3 +21,4 @@
 ## Decisiones de Componentes
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`. Spec cerrada. Pendiente: Logo, EnlacesNav, SelectorIdioma y BotonCTA.
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
+    - **Estilo:** Neo-brutalismo (Bordes gruesos de 3px y sombras sólidas de 5px en negro).

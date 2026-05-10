@@ -1,6 +1,7 @@
 # Especificación: Barra de Navegación (Contenedor)
 **Estado:** Completado.
 **Implementado:** Contenedor `header` sticky con tres zonas (izquierda/centro/derecha) en flexbox, fondo `var(--color-primario)` y borde inferior Neo-brutalista. Subcomponentes marcados como TODO para la siguiente iteración.
+**Estado:** Esqueleto Inicial.
 
 ## 1. Estructura Dinámica
 - **Ubicación:** `componentes/BarraNavegacion/`
