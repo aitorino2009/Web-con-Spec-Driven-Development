@@ -1,0 +1,29 @@
+.lista {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    padding: 0;
+    margin: 0;
+}
+
+.enlace {
+    text-decoration: none;
+    color: var(--color-texto);
+    font-family: var(--font-space-mono), monospace;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    transition: opacity 0.2s ease-in-out;
+    display: inline-block;
+}
+
+.enlace:hover {
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    text-decoration-thickness: 1px;
+}
+
+.enlace:active {
+    opacity: 0.7;
+}

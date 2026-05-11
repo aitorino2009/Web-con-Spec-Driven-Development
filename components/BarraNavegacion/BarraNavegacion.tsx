@@ -9,11 +9,15 @@
  *   - Derecha:   Espacio para Acciones - Selector de idioma + CTA (pendiente).
  */
 
+import { getDictionary } from '@/lib/get-dictionary';
 import Logo from './Logo/Logo';
+import EnlacesNav from './EnlacesNav/EnlacesNav';
 import SelectorIdioma from './SelectorIdioma/SelectorIdioma';
 import estilos from './BarraNavegacion.module.css';
 
-export default function BarraNavegacion() {
+export default async function BarraNavegacion({ lang }: { lang: string }) {
+    const dict = await getDictionary(lang);
+
     return (
         <header className={estilos.contenedor}>
             {/* --- Zona Izquierda: Logo --- */}
@@ -23,7 +27,7 @@ export default function BarraNavegacion() {
 
             {/* --- Zona Centro: Navegación --- */}
             <nav className={estilos.zonaCentro}>
-                {/* TODO: Componente <EnlacesNav /> */}
+                <EnlacesNav dicc={dict.navigation} lang={lang} />
             </nav>
 
             {/* --- Zona Derecha: Acciones --- */}

@@ -6,14 +6,18 @@
 
 import BarraNavegacion from '@/components/BarraNavegacion/BarraNavegacion';
 
-export default function LayoutIdioma({
+export default async function LayoutIdioma({
     children,
+    params,
 }: Readonly<{
     children: React.ReactNode;
+    params: Promise<{ lang: string }>;
 }>) {
+    const { lang } = await params;
+
     return (
         <>
-            <BarraNavegacion />
+            <BarraNavegacion lang={lang} />
             <main>{children}</main>
         </>
     );
