@@ -14,7 +14,7 @@ Crear el primer impacto visual de RAW STITCH mediante una sección a pantalla co
 
 ## 3. Prompt de Imagen (8K RAW)
 Para ser utilizado en Midjourney / Stable Diffusion:
-> "8K RAW, ultra-detailed industrial high fashion photography, medium shot of a stoic fashion model wearing a highly textured technical futuristic garment, abandoned concrete warehouse environment, harsh dramatic studio lighting with deep shadows, cinematic composition, film grain texture, muted color palette, high-end editorial style, no smiles, no cliches, raw aesthetic --ar 16:9 --v 6.0"
+> "RAW PHOTOGRAPH IN 8K, HIGH RESOLUTION. ESTOIC MODEL WEARING A COMPLEX TECHNICAL GARMENT WITH MULTIPLE TEXTURES AND STRAPS. HARSH STUDIO LIGHTING. INDUSTRIAL YET SOPHISTICATED VIBE. FILM GRAIN TEXTURE. NO CLICHÉS. --ar 16:9 --v 6.0"
 
 ## 4. Estructura del Componente
 - **Contenedor:** `section` con `width: 100%` y `height: 100vh`.
