@@ -1,29 +1,36 @@
 .enlace {
     text-decoration: none;
-    display: inline-block;
-    transition: transform 0.15s ease-in-out;
+    display: inline-flex;
+    align-items: center;
+    transition: opacity 0.15s ease-in-out;
 }
 
 .enlace:hover {
-    transform: scale(1.02) rotate(-1deg);
+    opacity: 0.8;
 }
 
-.enlace:active {
-    transform: scale(0.98) translate(2px, 2px);
-}
-
-.texto {
-    /* Tipografía */
-    font-family: var(--font-syne), sans-serif;
-    font-weight: 800;
-    font-size: 2rem; /* Tamaño base, escalable por contenedor si se desea */
+.contenedorLogo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: var(--font-space-mono), monospace;
+    font-weight: 700;
     line-height: 1;
-    letter-spacing: 0.1em; /* Mucho aire entre letras para estilo urbano/moda */
+}
+
+.cajaRaw {
+    background-color: var(--color-texto);
+    color: #FFFFFF;
+    padding: 0.25rem 0.5rem;
+    font-size: 1.75rem;
     text-transform: uppercase;
-    
-    /* Colores Neo-brutalistas estandarizados */
+    display: inline-block;
+}
+
+.textoStitch {
     color: var(--color-texto);
-    
-    /* Sombra sólida desplazada sutil para efecto 3D refinado */
-    text-shadow: 2px 2px 0px var(--color-texto);
+    font-size: 1.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
 }
