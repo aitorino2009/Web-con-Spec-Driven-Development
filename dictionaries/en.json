@@ -2,5 +2,12 @@
   "home": {
     "title": "🚧 Page under construction",
     "subtitle": "The Cyber-Lime Navbar is up top. Content coming soon."
+  },
+  "navigation": {
+    "novedades": "New",
+    "hombre": "Men",
+    "mujer": "Women",
+    "basicos": "Basics",
+    "archivo": "Archive"
   }
 }
