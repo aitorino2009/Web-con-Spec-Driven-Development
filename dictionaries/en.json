@@ -9,5 +9,9 @@
     "mujer": "WOMEN",
     "basicos": "BASICS",
     "archivo": "ARCHIVE"
+  },
+  "hero": {
+    "title": "RAW TEXTURE.",
+    "cta": "VIEW COLLECTION"
   }
 }
