@@ -9,7 +9,10 @@ import estilos from './Logo.module.css';
 export default function Logo() {
     return (
         <Link href="/" className={estilos.enlace} aria-label="Ir a la página de inicio">
-            <span className={estilos.texto}>RAW STITCH</span>
+            <div className={estilos.contenedorLogo}>
+                <span className={estilos.cajaRaw}>RAW</span>
+                <span className={estilos.textoStitch}>STITCH</span>
+            </div>
         </Link>
     );
 }

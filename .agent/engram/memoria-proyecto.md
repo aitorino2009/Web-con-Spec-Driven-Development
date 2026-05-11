@@ -24,4 +24,4 @@
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
 - **SelectorIdioma:** COMPLETADO. Componente de cliente minimalista (ES | EN) con diseño Neo-brutalista vibrante. Regla estricta: Negro solo para texto.
 - **Internacionalización (i18n):** Implementado sistema nativo de diccionarios JSON (`dictionaries/`) y cargador asíncrono (`lib/get-dictionary.ts`) para Server Components.
-- **Logo (RAW STITCH):** COMPLETADO. Identidad visual tipográfica (fuente Syne) con carácter sofisticado y urbano. Se eliminó el contorno, se amplió el letter-spacing (0.1em) para mayor limpieza, y se refinó la sombra 3D. Fondos siempre vibrantes.
+- **Logo (RAW STITCH):** REDISEÑADO. Estilo 'Factory Tag' neo-brutalista técnico puro. Uso de fuente Space Mono 700. La palabra RAW va dentro de una caja negra sólida con texto blanco, y STITCH fuera con letter-spacing de 0.1em. Se eliminaron sombras y efectos 'pegatina'.

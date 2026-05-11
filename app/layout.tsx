@@ -7,13 +7,13 @@
  */
 
 import type { Metadata } from 'next';
-import { Syne } from 'next/font/google';
+import { Space_Mono } from 'next/font/google';
 import './globals.css';
 
-const syne = Syne({ 
+const spaceMono = Space_Mono({ 
     subsets: ['latin'], 
-    weight: ['800'],
-    variable: '--font-syne',
+    weight: ['700'],
+    variable: '--font-space-mono',
     display: 'swap'
 });
 
@@ -29,7 +29,7 @@ export default function LayoutRaiz({
 }>) {
     return (
         <html lang="es">
-            <body className={`${syne.variable}`}>{children}</body>
+            <body className={`${spaceMono.variable}`}>{children}</body>
         </html>
     );
 }
