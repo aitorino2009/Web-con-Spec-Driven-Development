@@ -5,6 +5,7 @@
  */
 
 import { getDictionary } from '@/lib/get-dictionary';
+import Hero from '@/components/Hero/Hero';
 
 export default async function PaginaInicio({ params }: { params: Promise<{ lang: string }> }) {
     // En Next.js 15, params se procesa como una promesa
@@ -12,9 +13,8 @@ export default async function PaginaInicio({ params }: { params: Promise<{ lang:
     const dic = await getDictionary(lang);
 
     return (
-        <section style={{ padding: '48px 24px' }}>
-            <h1>{dic.home.title}</h1>
-            <p>{dic.home.subtitle}</p>
-        </section>
+        <main>
+            <Hero dicc={dic.hero} lang={lang} />
+        </main>
     );
 }

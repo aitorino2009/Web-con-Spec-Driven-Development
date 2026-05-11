@@ -7,13 +7,20 @@
  */
 
 import type { Metadata } from 'next';
-import { Space_Mono } from 'next/font/google';
+import { Space_Mono, Alfa_Slab_One } from 'next/font/google';
 import './globals.css';
 
 const spaceMono = Space_Mono({ 
     subsets: ['latin'], 
     weight: ['700'],
     variable: '--font-space-mono',
+    display: 'swap'
+});
+
+const alfaSlabOne = Alfa_Slab_One({
+    subsets: ['latin'],
+    weight: ['400'], // Alfa Slab One solo tiene peso 400
+    variable: '--font-alfa-slab',
     display: 'swap'
 });
 
@@ -29,7 +36,7 @@ export default function LayoutRaiz({
 }>) {
     return (
         <html lang="es">
-            <body className={`${spaceMono.variable}`}>{children}</body>
+            <body className={`${spaceMono.variable} ${alfaSlabOne.variable}`}>{children}</body>
         </html>
     );
 }
