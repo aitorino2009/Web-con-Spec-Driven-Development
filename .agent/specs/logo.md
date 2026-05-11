@@ -1,9 +1,9 @@
 # Especificación: Logo "RAW STITCH"
 
-**Estado:** Esqueleto Inicial.
+**Estado:** Completado.
 
 ## 1. Responsabilidad y Ubicación
-- **Ubicación:** `components/Logo/`
+- **Ubicación:** `components/BarraNavegacion/Logo/`
 - **Responsabilidad:** Representar la identidad visual de la marca "RAW STITCH" en la zona izquierda de la Barra de Navegación y ser reutilizable en otras secciones. Debe ser completamente escalable.
 
 ## 2. Tipografía y Carácter

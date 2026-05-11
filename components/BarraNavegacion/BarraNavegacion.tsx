@@ -9,6 +9,7 @@
  *   - Derecha:   Espacio para Acciones - Selector de idioma + CTA (pendiente).
  */
 
+import Logo from './Logo/Logo';
 import SelectorIdioma from './SelectorIdioma/SelectorIdioma';
 import estilos from './BarraNavegacion.module.css';
 
@@ -17,7 +18,7 @@ export default function BarraNavegacion() {
         <header className={estilos.contenedor}>
             {/* --- Zona Izquierda: Logo --- */}
             <div className={estilos.zonaIzquierda}>
-                {/* TODO: Componente <Logo /> */}
+                <Logo />
             </div>
 
             {/* --- Zona Centro: Navegación --- */}

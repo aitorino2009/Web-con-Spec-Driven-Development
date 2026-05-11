@@ -36,6 +36,7 @@
 1. **Consulta de Memoria:** Antes de cada respuesta, lee `.agent/engram/memoria-proyecto.md`.
 2. **Uso de Skills:** Si la tarea es de estilos, aplica `.agent/skills/estilos.md`. Si es de archivos, aplica `.agent/skills/estructura-archivos.md`.
 3. **Actualización:** Al terminar, resume la decisión en la memoria del proyecto.
+4. **Aprendizaje:** Si aprendiste algo nuevo durante la tarea, actualiza la memoria del proyecto en aprendizajes recientes.
 
 ## Protocolo de Gestión de Specs
 - **Sincronización Obligatoria:** Antes de escribir una sola línea de código, el agente DEBE actualizar el campo `Estado` en el archivo `.agent/specs/[nombre].md` a "En Desarrollo".

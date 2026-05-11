@@ -7,7 +7,15 @@
  */
 
 import type { Metadata } from 'next';
+import { Syne } from 'next/font/google';
 import './globals.css';
+
+const syne = Syne({ 
+    subsets: ['latin'], 
+    weight: ['800'],
+    variable: '--font-syne',
+    display: 'swap'
+});
 
 export const metadata: Metadata = {
     title: 'Aprendizaje con IA',
@@ -21,7 +29,7 @@ export default function LayoutRaiz({
 }>) {
     return (
         <html lang="es">
-            <body>{children}</body>
+            <body className={`${syne.variable}`}>{children}</body>
         </html>
     );
 }
