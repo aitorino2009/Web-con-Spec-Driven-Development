@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 import estilos from './Hero.module.css';
 
@@ -17,12 +18,19 @@ export default function Hero({ dicc, lang }: Props) {
     return (
         <section className={estilos.contenedor}>
             <div className={estilos.capaImagen}>
-                {/* La imagen final se cargará aquí. Por ahora usamos un degradado placeholder técnico */}
+                <Image 
+                    src="/hero-industrial.png" 
+                    alt="RAW STITCH Industrial Fashion"
+                    fill
+                    priority
+                    className={estilos.imagen}
+                />
+                <div className={estilos.overlay} />
             </div>
             
             <div className={estilos.contenido}>
                 <h1 className={estilos.titulo}>
-                    {dicc.title}
+                    RAW STITCH
                 </h1>
                 
                 <Link href={`/${lang}/coleccion`} className={estilos.botonCta}>
