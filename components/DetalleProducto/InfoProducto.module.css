@@ -1,0 +1,117 @@
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.categoria {
+    font-family: 'Space Mono', monospace;
+    color: var(--color-primario);
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.nombre {
+    font-family: 'Alfa Slab One', serif;
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 10px 0;
+}
+
+.precio {
+    font-family: 'Space Mono', monospace;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--color-primario); /* Color tostado de la marca */
+}
+
+.descripcion {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: #444;
+}
+
+.label {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.tallas {
+    display: flex;
+    gap: 12px;
+}
+
+.tallaBtn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid var(--color-texto);
+    background: white;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tallaActiva {
+    background-color: var(--color-texto);
+    color: white;
+}
+
+.botonCompra {
+    background-color: var(--color-primario);
+    color: var(--color-texto);
+    border: var(--borde-grueso);
+    padding: 20px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    box-shadow: 8px 8px 0px var(--color-texto);
+    transition: all 0.1s ease;
+}
+
+.botonCompra:active {
+    transform: translate(4px, 4px);
+    box-shadow: 4px 4px 0px var(--color-texto);
+}
+
+.acordeones {
+    margin-top: 20px;
+    border-top: 2px solid var(--color-texto);
+}
+
+.acordeon {
+    border-bottom: 2px solid var(--color-texto);
+}
+
+.acordeonHeader {
+    list-style: none;
+    padding: 20px 0;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    position: relative;
+}
+
+.acordeonHeader::after {
+    content: '+';
+    position: absolute;
+    right: 0;
+}
+
+.acordeon[open] .acordeonHeader::after {
+    content: '-';
+}
+
+.acordeonContent {
+    padding-bottom: 20px;
+    font-size: 0.9rem;
+    color: #666;
+}
