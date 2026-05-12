@@ -1,0 +1,173 @@
+.contenedor {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    padding: 120px var(--espaciado-lateral, 5%) 60px;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+@media (min-width: 1024px) {
+    .contenedor {
+        grid-template-columns: 1.2fr 0.8fr;
+        align-items: start;
+    }
+}
+
+/* --- COLUMNA IZQUIERDA: GALERÍA --- */
+.galeria {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.imagenPrincipal {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    background-color: #f5f5f5;
+    border: var(--borde-grueso);
+    overflow: hidden;
+}
+
+.miniaturas {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+}
+
+.miniatura {
+    position: relative;
+    width: 80px;
+    aspect-ratio: 1 / 1;
+    border: 2px solid var(--color-texto);
+    cursor: pointer;
+    background-color: #f5f5f5;
+    flex-shrink: 0;
+}
+
+.miniaturaActiva {
+    border-color: var(--color-primario);
+    box-shadow: 4px 4px 0px var(--color-primario);
+}
+
+/* --- COLUMNA DERECHA: INFO --- */
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: sticky;
+    top: 100px;
+}
+
+.categoria {
+    font-family: 'Space Mono', monospace;
+    color: var(--color-primario);
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+}
+
+.nombre {
+    font-family: 'Alfa Slab One', serif;
+    font-size: clamp(2rem, 4vw, 3rem);
+    text-transform: uppercase;
+    line-height: 1.1;
+}
+
+.precio {
+    font-family: 'Space Mono', monospace;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+/* --- SELECTOR TALLAS --- */
+.seccionTallas {
+    margin-top: 20px;
+}
+
+.labelSeccion {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+    display: block;
+    text-transform: uppercase;
+}
+
+.tallas {
+    display: flex;
+    gap: 10px;
+}
+
+.tallaBtn {
+    width: 50px;
+    height: 50px;
+    border: 2px solid var(--color-texto);
+    background: white;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tallaBtn:hover {
+    background-color: #f0f0f0;
+}
+
+.tallaActiva {
+    background-color: var(--color-texto) !important;
+    color: white;
+}
+
+/* --- CTA --- */
+.botonCompra {
+    margin-top: 20px;
+    background-color: var(--color-primario);
+    color: var(--color-texto);
+    border: var(--borde-grueso);
+    padding: 20px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 6px 6px 0px var(--color-texto);
+    transition: transform 0.1s ease, box-shadow 0.1s ease;
+    text-transform: uppercase;
+}
+
+.botonCompra:active {
+    transform: translate(3px, 3px);
+    box-shadow: 3px 3px 0px var(--color-texto);
+}
+
+/* --- ACORDEONES --- */
+.acordeones {
+    margin-top: 40px;
+    border-top: 2px solid var(--color-texto);
+}
+
+.acordeon {
+    border-bottom: 2px solid var(--color-texto);
+}
+
+.acordeonHeader {
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: none;
+    border: none;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.acordeonContent {
+    padding-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
