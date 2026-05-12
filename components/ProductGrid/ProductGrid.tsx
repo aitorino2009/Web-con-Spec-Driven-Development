@@ -34,12 +34,18 @@ export default function ProductGrid({ lang, productos }: Props) {
                         )}
                         
                         <div className={estilos.contenedorImagen}>
-                            <Image 
-                                src={producto.imagen}
-                                alt={producto.nombre}
-                                fill
-                                className={estilos.imagen}
-                            />
+                            {producto.imagen ? (
+                                <Image 
+                                    src={producto.imagen}
+                                    alt={producto.nombre}
+                                    fill
+                                    className={estilos.imagen}
+                                />
+                            ) : (
+                                <div className={estilos.placeholder}>
+                                    <span className={estilos.placeholderId}>{producto.id}</span>
+                                </div>
+                            )}
                         </div>
 
                         <div className={estilos.info}>

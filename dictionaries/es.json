@@ -19,6 +19,14 @@
     "subtitle": "BATCH #004 / 2026",
     "tag_nuevo": "NOVEDAD"
   },
+  "pdp": {
+    "cta": "Añadir al Carrito",
+    "tallas": "Seleccionar Talla",
+    "secciones": {
+      "tecnico": "Detalles Técnicos",
+      "envios": "Envíos y Devoluciones"
+    }
+  },
   "productos": {
     "1": {
       "nombre": "Sudadera Bechamel",

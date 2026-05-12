@@ -19,6 +19,14 @@
     "subtitle": "BATCH #004 / 2026",
     "tag_nuevo": "NEW"
   },
+  "pdp": {
+    "cta": "Add to Cart",
+    "tallas": "Select Size",
+    "secciones": {
+      "tecnico": "Technical Details",
+      "envios": "Shipping & Returns"
+    }
+  },
   "productos": {
     "1": {
       "nombre": "Bechamel Hoodie",
