@@ -29,10 +29,10 @@ Implementar una sección de "Productos Destacados" debajo del Hero que muestre l
 ## 4. Datos de Ejemplo (Placeholder)
 | ID | Nombre | Precio | Tag | Imagen |
 |---|---|---|---|---|
-| 1 | Sudadera Bechamel Oversize | 65.00€ | Novedad | /productos/bechamel-oversize.png |
-| 2 | Camiseta Panko Tech | 35.00€ | Novedad | /productos/panko-tech.png |
-| 3 | Pantalones Rebozados | 85.00€ | Novedad | /productos/pantalones-rebozados.png |
-| 4 | Gorra Crujiente | 25.00€ | Novedad | /productos/gorra-crujiente.png |
+| 1 | Sudadera Bechamel Oversize | 65.00€ | Novedad | /productos/sudadera-bechamel-oversize/1.webp |
+| 2 | Camiseta Panko Tech | 35.00€ | Novedad | /productos/camiseta-panko-tech/1.webp |
+| 3 | Pantalones Rebozados | 85.00€ | Novedad | /productos/pantalones-rebozados/1.webp |
+| 4 | Gorra Crujiente | 25.00€ | Novedad | /productos/gorra-crujiente/1.webp |
 
 ## 5. Estructura de Componentes
 - **GridProductos:** Contenedor principal que maneja el layout.

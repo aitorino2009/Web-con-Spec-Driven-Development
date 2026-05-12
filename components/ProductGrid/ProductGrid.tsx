@@ -17,28 +17,28 @@ const PRODUCTOS_MOCK: Producto[] = [
         nombre: 'Sudadera Bechamel Oversize',
         precio: '65.00€',
         tag: 'Novedad',
-        imagen: '/productos/bechamel-oversize.png'
+        imagen: '/productos/sudadera-bechamel-oversize/1.webp'
     },
     {
         id: 2,
         nombre: 'Camiseta Panko Tech',
         precio: '35.00€',
         tag: 'Novedad',
-        imagen: '/productos/panko-tech.png'
+        imagen: '/productos/camiseta-panko-tech/1.webp'
     },
     {
         id: 3,
         nombre: 'Pantalones Rebozados',
         precio: '85.00€',
         tag: 'Novedad',
-        imagen: '/productos/pantalones-rebozados.png'
+        imagen: '/productos/pantalones-rebozados/1.webp'
     },
     {
         id: 4,
         nombre: 'Gorra Crujiente',
         precio: '25.00€',
         tag: 'Novedad',
-        imagen: '/productos/gorra-crujiente.png'
+        imagen: '/productos/gorra-crujiente/1.webp'
     }
 ];
 
@@ -55,36 +55,12 @@ export default function ProductGrid() {
                         )}
                         
                         <div className={estilos.contenedorImagen}>
-                            {/* 
-                                NOTA: Las imágenes están en cola de generación. 
-                                Se usa un fallback visual mientras tanto.
-                            */}
                             <Image 
                                 src={producto.imagen}
                                 alt={producto.nombre}
                                 fill
                                 className={estilos.imagen}
-                                onError={(e) => {
-                                    // Fallback visual si la imagen no existe
-                                    const target = e.target as HTMLImageElement;
-                                    target.style.display = 'none';
-                                }}
                             />
-                            <div style={{
-                                width: '100%',
-                                height: '100%',
-                                display: 'flex',
-                                alignItems: 'center',
-                                justifyContent: 'center',
-                                backgroundColor: '#f0f0f0',
-                                color: '#999',
-                                fontFamily: 'Space Mono',
-                                fontSize: '0.8rem',
-                                textAlign: 'center',
-                                padding: '20px'
-                            }}>
-                                [RENDER PENDING: {producto.nombre}]
-                            </div>
                         </div>
 
                         <div className={estilos.info}>

@@ -24,7 +24,7 @@
 - **Tipografía Base:** `Space Mono` (Técnica) y `Alfa Slab One` (Titulares).
 
 ## Estado de Componentes
-- **GridProductos:** COMPLETADO. Implementado como Client Component. Grid responsivo (1/2/3-4 col) con tarjetas neo-brutalistas e integración de fallback para imágenes pendientes.
+- **GridProductos:** COMPLETADO. Implementado como Client Component. Grid responsivo (1/2/3-4 col) con tarjetas neo-brutalistas e imágenes reales de Krea. Estructura de activos organizada por carpetas por producto para futuras expansiones (hover/galería).
 - **Hero Brutalista v4.0 (The Mixed Group):** EN DESARROLLO. Spec actualizada para grupo mixto (2H/2M). Imagen en cola de generación.
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`.
 - **SelectorIdioma:** COMPLETADO. Componente de cliente (ES | EN).
