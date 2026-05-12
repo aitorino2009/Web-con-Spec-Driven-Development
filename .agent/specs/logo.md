@@ -1,10 +1,10 @@
-# Especificación: Logo "RAW STITCH"
+# Especificación: Logo "CROQUETAS STITCH"
 
 **Estado:** Completado.
 
 ## 1. Responsabilidad y Ubicación
 - **Ubicación:** `components/BarraNavegacion/Logo/`
-- **Responsabilidad:** Representar la identidad visual de la marca "RAW STITCH" en la zona izquierda de la Barra de Navegación y ser reutilizable en otras secciones. Debe ser completamente escalable.
+- **Responsabilidad:** Representar la identidad visual de la marca "CROQUETAS STITCH" en la zona izquierda de la Barra de Navegación y ser reutilizable en otras secciones. Debe ser completamente escalable.
 
 ## 2. Tipografía y Carácter
 - **Fuente:** `Syne` (importada desde Google Fonts).

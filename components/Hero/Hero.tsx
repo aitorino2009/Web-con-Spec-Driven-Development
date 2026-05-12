@@ -19,8 +19,8 @@ export default function Hero({ dicc, lang }: Props) {
         <section className={estilos.contenedor}>
             <div className={estilos.capaImagen}>
                 <Image 
-                    src="/hero-industrial.png" 
-                    alt="RAW STITCH Industrial Fashion"
+                    src="/hero-v3-adidas-4k.png" // TODO: Actualizar a /hero-v4-mixed-group.png cuando el render esté listo
+                    alt="CROQUETAS STITCH v4 - Mixed Group Technical Lifestyle"
                     fill
                     priority
                     className={estilos.imagen}
@@ -30,10 +30,10 @@ export default function Hero({ dicc, lang }: Props) {
             
             <div className={estilos.contenido}>
                 <h1 className={estilos.titulo}>
-                    RAW STITCH
+                    CROQUETAS STITCH
                 </h1>
                 
-                <Link href={`/${lang}/coleccion`} className={estilos.botonCta}>
+                <Link href={`/${lang}/novedades`} className={estilos.botonCta}>
                     {dicc.cta}
                 </Link>
             </div>
