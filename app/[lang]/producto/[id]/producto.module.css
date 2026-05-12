@@ -22,4 +22,32 @@
         position: sticky;
         top: 120px;
     }
+
+    .columnaGaleria {
+        position: sticky;
+        top: 120px;
+    }
 }
+
+.placeholderPDP {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    background-color: #F2F2F2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Space Mono', monospace;
+    color: #999;
+    gap: 20px;
+    border: var(--borde-grueso);
+    text-align: center;
+    padding: 20px;
+}
+
+.placeholderId {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+

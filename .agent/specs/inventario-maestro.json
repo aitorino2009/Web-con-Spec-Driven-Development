@@ -4,1083 +4,1083 @@
   "productos": [
     {
       "id": "CS-N-001",
-      "nombre": "Sudadera Bechamel 1",
+      "nombre": "Sudadera Bechamel Oversize",
       "categoria": "NOVEDADES",
-      "precio": "22.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera bechamel. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "65.00€",
+      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-002",
-      "nombre": "Camiseta Panko 2",
+      "nombre": "Camiseta Panko Tech",
       "categoria": "NOVEDADES",
-      "precio": "24.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta panko. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "35.00€",
+      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-003",
-      "nombre": "Pantalón Rebozado 3",
+      "nombre": "Pantalones Rebozados",
       "categoria": "NOVEDADES",
-      "precio": "26.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón rebozado. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "85.00€",
+      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-004",
-      "nombre": "Gorra Crujiente 4",
+      "nombre": "Gorra Crujiente",
       "categoria": "NOVEDADES",
-      "precio": "28.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del gorra crujiente. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.00€",
+      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-005",
-      "nombre": "Calcetines Aceite 5",
+      "nombre": "Calcetines Aceite Ahumada",
       "categoria": "NOVEDADES",
-      "precio": "30.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del calcetines aceite. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "50.00€",
+      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-006",
-      "nombre": "Chaqueta Tempura 6",
+      "nombre": "Chaqueta Tempura Gratinada",
       "categoria": "NOVEDADES",
-      "precio": "32.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chaqueta tempura. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "79.99€",
+      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-007",
-      "nombre": "Top AirFryer 7",
+      "nombre": "Top AirFryer al Horno",
       "categoria": "NOVEDADES",
-      "precio": "34.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top airfryer. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.00€",
+      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-008",
-      "nombre": "Shorts Gratinados 8",
+      "nombre": "Shorts Gratinados Maridada",
       "categoria": "NOVEDADES",
-      "precio": "36.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del shorts gratinados. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.00€",
+      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-009",
-      "nombre": "Sudadera Curry 9",
+      "nombre": "Sudadera Curry Confitada",
       "categoria": "NOVEDADES",
-      "precio": "38.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera curry. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "32.95€",
+      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-010",
-      "nombre": "Hoodie Wasabi 10",
+      "nombre": "Hoodie Wasabi Caramelizada",
       "categoria": "NOVEDADES",
-      "precio": "40.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del hoodie wasabi. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "33.99€",
+      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-011",
-      "nombre": "Sudadera Bechamel 11",
+      "nombre": "Sudadera Bechamel Escabechada",
       "categoria": "NOVEDADES",
-      "precio": "42.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera bechamel. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "32.99€",
+      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-012",
-      "nombre": "Camiseta Panko 12",
+      "nombre": "Camiseta Panko al Ajillo",
       "categoria": "NOVEDADES",
-      "precio": "44.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta panko. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "26.00€",
+      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-013",
-      "nombre": "Pantalón Rebozado 13",
+      "nombre": "Pantalón Rebozado en Salsa",
       "categoria": "NOVEDADES",
-      "precio": "46.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón rebozado. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "108.99€",
+      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-014",
-      "nombre": "Gorra Crujiente 14",
+      "nombre": "Gorra Crujiente al Vapor",
       "categoria": "NOVEDADES",
-      "precio": "48.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del gorra crujiente. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "98.95€",
+      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-015",
-      "nombre": "Calcetines Aceite 15",
+      "nombre": "Calcetines Aceite Braseada",
       "categoria": "NOVEDADES",
-      "precio": "50.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del calcetines aceite. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "69.00€",
+      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-016",
-      "nombre": "Chaqueta Tempura 16",
+      "nombre": "Chaqueta Tempura Salteada",
       "categoria": "NOVEDADES",
-      "precio": "52.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chaqueta tempura. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "49.99€",
+      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-017",
-      "nombre": "Top AirFryer 17",
+      "nombre": "Top AirFryer Glaseada",
       "categoria": "NOVEDADES",
-      "precio": "54.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top airfryer. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "109.95€",
+      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-018",
-      "nombre": "Shorts Gratinados 18",
+      "nombre": "Shorts Gratinados Rellena",
       "categoria": "NOVEDADES",
-      "precio": "56.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del shorts gratinados. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "96.99€",
+      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-019",
-      "nombre": "Sudadera Curry 19",
+      "nombre": "Sudadera Curry Agridulce",
       "categoria": "NOVEDADES",
-      "precio": "58.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera curry. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "118.95€",
+      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-020",
-      "nombre": "Hoodie Wasabi 20",
+      "nombre": "Hoodie Wasabi Estofada",
       "categoria": "NOVEDADES",
-      "precio": "60.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del hoodie wasabi. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "87.95€",
+      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-021",
-      "nombre": "Sudadera Bechamel 21",
+      "nombre": "Sudadera Bechamel Rehogada",
       "categoria": "NOVEDADES",
-      "precio": "62.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera bechamel. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "68.00€",
+      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-022",
-      "nombre": "Camiseta Panko 22",
+      "nombre": "Camiseta Panko al Grill",
       "categoria": "NOVEDADES",
-      "precio": "64.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta panko. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "92.95€",
+      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-023",
-      "nombre": "Pantalón Rebozado 23",
+      "nombre": "Pantalón Rebozado Pochada",
       "categoria": "NOVEDADES",
-      "precio": "66.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón rebozado. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "104.00€",
+      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-N-024",
-      "nombre": "Gorra Crujiente 24",
+      "nombre": "Gorra Crujiente Flambeada",
       "categoria": "NOVEDADES",
-      "precio": "68.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del gorra crujiente. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "94.99€",
+      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote novedades.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-001",
-      "nombre": "Cargo Sofrito 1",
+      "nombre": "Cargo Sofrito Trufada",
       "categoria": "HOMBRE",
-      "precio": "22.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cargo sofrito. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "90.95€",
+      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-002",
-      "nombre": "Cortavientos Alioli 2",
+      "nombre": "Cortavientos Alioli Crujiente",
       "categoria": "HOMBRE",
-      "precio": "24.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cortavientos alioli. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "108.99€",
+      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-003",
-      "nombre": "Chaleco Picatoste 3",
+      "nombre": "Chaleco Picatoste de la Abuela",
       "categoria": "HOMBRE",
-      "precio": "26.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chaleco picatoste. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "38.99€",
+      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-004",
-      "nombre": "Vaquero Chorizo 4",
+      "nombre": "Vaquero Chorizo Picante",
       "categoria": "HOMBRE",
-      "precio": "28.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vaquero chorizo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "56.00€",
+      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-005",
-      "nombre": "Jersey Morcilla 5",
+      "nombre": "Jersey Morcilla Ahumada",
       "categoria": "HOMBRE",
-      "precio": "30.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del jersey morcilla. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "110.00€",
+      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-006",
-      "nombre": "Bomber Lomo 6",
+      "nombre": "Bomber Lomo Gratinada",
       "categoria": "HOMBRE",
-      "precio": "32.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del bomber lomo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "94.00€",
+      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-007",
-      "nombre": "Camisa Adobo 7",
+      "nombre": "Camisa Adobo al Horno",
       "categoria": "HOMBRE",
-      "precio": "34.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camisa adobo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "88.00€",
+      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-008",
-      "nombre": "Polo Escabeche 8",
+      "nombre": "Polo Escabeche Maridada",
       "categoria": "HOMBRE",
-      "precio": "36.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del polo escabeche. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "103.95€",
+      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-009",
-      "nombre": "Parka Gazpacho 9",
+      "nombre": "Parka Gazpacho Confitada",
       "categoria": "HOMBRE",
-      "precio": "38.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del parka gazpacho. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "97.99€",
+      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-010",
-      "nombre": "Chino Salmorejo 10",
+      "nombre": "Chino Salmorejo Caramelizada",
       "categoria": "HOMBRE",
-      "precio": "40.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chino salmorejo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "71.99€",
+      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-011",
-      "nombre": "Cargo Sofrito 11",
+      "nombre": "Cargo Sofrito Escabechada",
       "categoria": "HOMBRE",
-      "precio": "42.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cargo sofrito. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "118.95€",
+      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-012",
-      "nombre": "Cortavientos Alioli 12",
+      "nombre": "Cortavientos Alioli al Ajillo",
       "categoria": "HOMBRE",
-      "precio": "44.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cortavientos alioli. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "109.95€",
+      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-013",
-      "nombre": "Chaleco Picatoste 13",
+      "nombre": "Chaleco Picatoste en Salsa",
       "categoria": "HOMBRE",
-      "precio": "46.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chaleco picatoste. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.95€",
+      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-014",
-      "nombre": "Vaquero Chorizo 14",
+      "nombre": "Vaquero Chorizo al Vapor",
       "categoria": "HOMBRE",
-      "precio": "48.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vaquero chorizo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.99€",
+      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-015",
-      "nombre": "Jersey Morcilla 15",
+      "nombre": "Jersey Morcilla Braseada",
       "categoria": "HOMBRE",
-      "precio": "50.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del jersey morcilla. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "74.99€",
+      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-016",
-      "nombre": "Bomber Lomo 16",
+      "nombre": "Bomber Lomo Salteada",
       "categoria": "HOMBRE",
-      "precio": "52.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del bomber lomo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "64.95€",
+      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-017",
-      "nombre": "Camisa Adobo 17",
+      "nombre": "Camisa Adobo Glaseada",
       "categoria": "HOMBRE",
-      "precio": "54.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camisa adobo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "96.00€",
+      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-018",
-      "nombre": "Polo Escabeche 18",
+      "nombre": "Polo Escabeche Rellena",
       "categoria": "HOMBRE",
-      "precio": "56.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del polo escabeche. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "38.99€",
+      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-019",
-      "nombre": "Parka Gazpacho 19",
+      "nombre": "Parka Gazpacho Agridulce",
       "categoria": "HOMBRE",
-      "precio": "58.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del parka gazpacho. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "88.00€",
+      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-020",
-      "nombre": "Chino Salmorejo 20",
+      "nombre": "Chino Salmorejo Estofada",
       "categoria": "HOMBRE",
-      "precio": "60.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chino salmorejo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "58.99€",
+      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-021",
-      "nombre": "Cargo Sofrito 21",
+      "nombre": "Cargo Sofrito Rehogada",
       "categoria": "HOMBRE",
-      "precio": "62.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cargo sofrito. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.99€",
+      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-022",
-      "nombre": "Cortavientos Alioli 22",
+      "nombre": "Cortavientos Alioli al Grill",
       "categoria": "HOMBRE",
-      "precio": "64.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cortavientos alioli. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "101.99€",
+      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-023",
-      "nombre": "Chaleco Picatoste 23",
+      "nombre": "Chaleco Picatoste Pochada",
       "categoria": "HOMBRE",
-      "precio": "66.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del chaleco picatoste. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "37.95€",
+      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-H-024",
-      "nombre": "Vaquero Chorizo 24",
+      "nombre": "Vaquero Chorizo Flambeada",
       "categoria": "HOMBRE",
-      "precio": "68.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vaquero chorizo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "96.95€",
+      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote hombre.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-001",
-      "nombre": "Leggings Jamón 1",
+      "nombre": "Leggings Jamón Trufada",
       "categoria": "MUJER",
-      "precio": "22.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del leggings jamón. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "102.95€",
+      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-002",
-      "nombre": "Top Bechamel Light 2",
+      "nombre": "Top Bechamel Light Crujiente",
       "categoria": "MUJER",
-      "precio": "24.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top bechamel light. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "52.00€",
+      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-003",
-      "nombre": "Vestido Salmorejo 3",
+      "nombre": "Vestido Salmorejo de la Abuela",
       "categoria": "MUJER",
-      "precio": "26.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vestido salmorejo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "43.99€",
+      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-004",
-      "nombre": "Falda Empanada 4",
+      "nombre": "Falda Empanada Picante",
       "categoria": "MUJER",
-      "precio": "28.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del falda empanada. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "35.00€",
+      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-005",
-      "nombre": "Mono Paella 5",
+      "nombre": "Mono Paella Ahumada",
       "categoria": "MUJER",
-      "precio": "30.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del mono paella. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "74.95€",
+      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-006",
-      "nombre": "Cárdigan Lentejas 6",
+      "nombre": "Cárdigan Lentejas Gratinada",
       "categoria": "MUJER",
-      "precio": "32.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cárdigan lentejas. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "112.99€",
+      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-007",
-      "nombre": "Blusa Fabada 7",
+      "nombre": "Blusa Fabada al Horno",
       "categoria": "MUJER",
-      "precio": "34.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del blusa fabada. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "104.99€",
+      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-008",
-      "nombre": "Trench Cocido 8",
+      "nombre": "Trench Cocido Maridada",
       "categoria": "MUJER",
-      "precio": "36.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del trench cocido. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "95.99€",
+      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-009",
-      "nombre": "Bikini Marmitaco 9",
+      "nombre": "Bikini Marmitaco Confitada",
       "categoria": "MUJER",
-      "precio": "38.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del bikini marmitaco. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "107.95€",
+      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-010",
-      "nombre": "Corsé Pulpo 10",
+      "nombre": "Corsé Pulpo Caramelizada",
       "categoria": "MUJER",
-      "precio": "40.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del corsé pulpo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "76.99€",
+      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-011",
-      "nombre": "Leggings Jamón 11",
+      "nombre": "Leggings Jamón Escabechada",
       "categoria": "MUJER",
-      "precio": "42.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del leggings jamón. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "27.00€",
+      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-012",
-      "nombre": "Top Bechamel Light 12",
+      "nombre": "Top Bechamel Light al Ajillo",
       "categoria": "MUJER",
-      "precio": "44.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top bechamel light. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "25.95€",
+      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-013",
-      "nombre": "Vestido Salmorejo 13",
+      "nombre": "Vestido Salmorejo en Salsa",
       "categoria": "MUJER",
-      "precio": "46.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vestido salmorejo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "105.00€",
+      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-014",
-      "nombre": "Falda Empanada 14",
+      "nombre": "Falda Empanada al Vapor",
       "categoria": "MUJER",
-      "precio": "48.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del falda empanada. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "113.00€",
+      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-015",
-      "nombre": "Mono Paella 15",
+      "nombre": "Mono Paella Braseada",
       "categoria": "MUJER",
-      "precio": "50.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del mono paella. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "33.99€",
+      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-016",
-      "nombre": "Cárdigan Lentejas 16",
+      "nombre": "Cárdigan Lentejas Salteada",
       "categoria": "MUJER",
-      "precio": "52.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del cárdigan lentejas. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "115.95€",
+      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-017",
-      "nombre": "Blusa Fabada 17",
+      "nombre": "Blusa Fabada Glaseada",
       "categoria": "MUJER",
-      "precio": "54.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del blusa fabada. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "26.99€",
+      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-018",
-      "nombre": "Trench Cocido 18",
+      "nombre": "Trench Cocido Rellena",
       "categoria": "MUJER",
-      "precio": "56.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del trench cocido. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "27.99€",
+      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-019",
-      "nombre": "Bikini Marmitaco 19",
+      "nombre": "Bikini Marmitaco Agridulce",
       "categoria": "MUJER",
-      "precio": "58.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del bikini marmitaco. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "68.00€",
+      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-020",
-      "nombre": "Corsé Pulpo 20",
+      "nombre": "Corsé Pulpo Estofada",
       "categoria": "MUJER",
-      "precio": "60.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del corsé pulpo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "27.95€",
+      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-021",
-      "nombre": "Leggings Jamón 21",
+      "nombre": "Leggings Jamón Rehogada",
       "categoria": "MUJER",
-      "precio": "62.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del leggings jamón. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "99.00€",
+      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-022",
-      "nombre": "Top Bechamel Light 22",
+      "nombre": "Top Bechamel Light al Grill",
       "categoria": "MUJER",
-      "precio": "64.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top bechamel light. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "30.00€",
+      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-023",
-      "nombre": "Vestido Salmorejo 23",
+      "nombre": "Vestido Salmorejo Pochada",
       "categoria": "MUJER",
-      "precio": "66.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vestido salmorejo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "36.95€",
+      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-M-024",
-      "nombre": "Falda Empanada 24",
+      "nombre": "Falda Empanada Flambeada",
       "categoria": "MUJER",
-      "precio": "68.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del falda empanada. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "103.00€",
+      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote mujer.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-001",
-      "nombre": "Camiseta Harina 1",
+      "nombre": "Camiseta Harina Trufada",
       "categoria": "BÁSICOS",
-      "precio": "22.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta harina. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "87.99€",
+      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-002",
-      "nombre": "Sudadera Huevo 2",
+      "nombre": "Sudadera Huevo Crujiente",
       "categoria": "BÁSICOS",
-      "precio": "24.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera huevo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "67.95€",
+      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-003",
-      "nombre": "Pantalón Sal 3",
+      "nombre": "Pantalón Sal de la Abuela",
       "categoria": "BÁSICOS",
-      "precio": "26.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón sal. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "42.95€",
+      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-004",
-      "nombre": "Top Aceite 4",
+      "nombre": "Top Aceite Picante",
       "categoria": "BÁSICOS",
-      "precio": "28.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top aceite. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "30.99€",
+      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-005",
-      "nombre": "Gorro Vinagre 5",
+      "nombre": "Gorro Vinagre Ahumada",
       "categoria": "BÁSICOS",
-      "precio": "30.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del gorro vinagre. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "49.95€",
+      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-006",
-      "nombre": "Body Agua 6",
+      "nombre": "Body Agua Gratinada",
       "categoria": "BÁSICOS",
-      "precio": "32.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del body agua. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "106.00€",
+      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-007",
-      "nombre": "Malla Azúcar 7",
+      "nombre": "Malla Azúcar al Horno",
       "categoria": "BÁSICOS",
-      "precio": "34.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del malla azúcar. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "81.95€",
+      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-008",
-      "nombre": "Jersey Leche 8",
+      "nombre": "Jersey Leche Maridada",
       "categoria": "BÁSICOS",
-      "precio": "36.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del jersey leche. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "87.00€",
+      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-009",
-      "nombre": "Camiseta Mantequilla 9",
+      "nombre": "Camiseta Mantequilla Confitada",
       "categoria": "BÁSICOS",
-      "precio": "38.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta mantequilla. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "51.95€",
+      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-010",
-      "nombre": "Hoodie Levadura 10",
+      "nombre": "Hoodie Levadura Caramelizada",
       "categoria": "BÁSICOS",
-      "precio": "40.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del hoodie levadura. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "97.95€",
+      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-011",
-      "nombre": "Camiseta Harina 11",
+      "nombre": "Camiseta Harina Escabechada",
       "categoria": "BÁSICOS",
-      "precio": "42.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta harina. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "108.95€",
+      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-012",
-      "nombre": "Sudadera Huevo 12",
+      "nombre": "Sudadera Huevo al Ajillo",
       "categoria": "BÁSICOS",
-      "precio": "44.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera huevo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "103.99€",
+      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-013",
-      "nombre": "Pantalón Sal 13",
+      "nombre": "Pantalón Sal en Salsa",
       "categoria": "BÁSICOS",
-      "precio": "46.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón sal. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "78.95€",
+      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-014",
-      "nombre": "Top Aceite 14",
+      "nombre": "Top Aceite al Vapor",
       "categoria": "BÁSICOS",
-      "precio": "48.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top aceite. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "98.99€",
+      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-015",
-      "nombre": "Gorro Vinagre 15",
+      "nombre": "Gorro Vinagre Braseada",
       "categoria": "BÁSICOS",
-      "precio": "50.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del gorro vinagre. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "67.00€",
+      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-016",
-      "nombre": "Body Agua 16",
+      "nombre": "Body Agua Salteada",
       "categoria": "BÁSICOS",
-      "precio": "52.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del body agua. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "69.00€",
+      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-017",
-      "nombre": "Malla Azúcar 17",
+      "nombre": "Malla Azúcar Glaseada",
       "categoria": "BÁSICOS",
-      "precio": "54.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del malla azúcar. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "106.95€",
+      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-018",
-      "nombre": "Jersey Leche 18",
+      "nombre": "Jersey Leche Rellena",
       "categoria": "BÁSICOS",
-      "precio": "56.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del jersey leche. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "90.00€",
+      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-019",
-      "nombre": "Camiseta Mantequilla 19",
+      "nombre": "Camiseta Mantequilla Agridulce",
       "categoria": "BÁSICOS",
-      "precio": "58.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta mantequilla. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "33.99€",
+      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-020",
-      "nombre": "Hoodie Levadura 20",
+      "nombre": "Hoodie Levadura Estofada",
       "categoria": "BÁSICOS",
-      "precio": "60.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del hoodie levadura. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "72.00€",
+      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-021",
-      "nombre": "Camiseta Harina 21",
+      "nombre": "Camiseta Harina Rehogada",
       "categoria": "BÁSICOS",
-      "precio": "62.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del camiseta harina. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "87.00€",
+      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-022",
-      "nombre": "Sudadera Huevo 22",
+      "nombre": "Sudadera Huevo al Grill",
       "categoria": "BÁSICOS",
-      "precio": "64.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del sudadera huevo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "61.99€",
+      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-023",
-      "nombre": "Pantalón Sal 23",
+      "nombre": "Pantalón Sal Pochada",
       "categoria": "BÁSICOS",
-      "precio": "66.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del pantalón sal. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "105.99€",
+      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-B-024",
-      "nombre": "Top Aceite 24",
+      "nombre": "Top Aceite Flambeada",
       "categoria": "BÁSICOS",
-      "precio": "68.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del top aceite. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "117.95€",
+      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote básicos.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-001",
-      "nombre": "Vintage Aceituna 1",
+      "nombre": "Vintage Aceituna Trufada",
       "categoria": "ARCHIVO",
-      "precio": "22.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vintage aceituna. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "113.00€",
+      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-002",
-      "nombre": "Curado Denim 2",
+      "nombre": "Curado Denim Crujiente",
       "categoria": "ARCHIVO",
-      "precio": "24.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del curado denim. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "110.99€",
+      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-003",
-      "nombre": "Antiguo Bacalao 3",
+      "nombre": "Antiguo Bacalao de la Abuela",
       "categoria": "ARCHIVO",
-      "precio": "26.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del antiguo bacalao. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "99.99€",
+      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-004",
-      "nombre": "Retro Merluza 4",
+      "nombre": "Retro Merluza Picante",
       "categoria": "ARCHIVO",
-      "precio": "28.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del retro merluza. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "80.95€",
+      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-005",
-      "nombre": "Old School Rodaballo 5",
+      "nombre": "Old School Rodaballo Ahumada",
       "categoria": "ARCHIVO",
-      "precio": "30.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del old school rodaballo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "70.95€",
+      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-006",
-      "nombre": "Clásico Cigala 6",
+      "nombre": "Clásico Cigala Gratinada",
       "categoria": "ARCHIVO",
-      "precio": "32.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del clásico cigala. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "37.95€",
+      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-007",
-      "nombre": "Legendario Langosta 7",
+      "nombre": "Legendario Langosta al Horno",
       "categoria": "ARCHIVO",
-      "precio": "34.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del legendario langosta. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "64.99€",
+      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-008",
-      "nombre": "Primigenio Ostra 8",
+      "nombre": "Primigenio Ostra Maridada",
       "categoria": "ARCHIVO",
-      "precio": "36.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del primigenio ostra. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "44.00€",
+      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-009",
-      "nombre": "Fundacional Mejillón 9",
+      "nombre": "Fundacional Mejillón Confitada",
       "categoria": "ARCHIVO",
-      "precio": "38.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del fundacional mejillón. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "92.95€",
+      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-010",
-      "nombre": "Histórico Almeja 10",
+      "nombre": "Histórico Almeja Caramelizada",
       "categoria": "ARCHIVO",
-      "precio": "40.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del histórico almeja. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "60.99€",
+      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-011",
-      "nombre": "Vintage Aceituna 11",
+      "nombre": "Vintage Aceituna Escabechada",
       "categoria": "ARCHIVO",
-      "precio": "42.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vintage aceituna. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "79.99€",
+      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-012",
-      "nombre": "Curado Denim 12",
+      "nombre": "Curado Denim al Ajillo",
       "categoria": "ARCHIVO",
-      "precio": "44.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del curado denim. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "113.99€",
+      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-013",
-      "nombre": "Antiguo Bacalao 13",
+      "nombre": "Antiguo Bacalao en Salsa",
       "categoria": "ARCHIVO",
-      "precio": "46.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del antiguo bacalao. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "47.00€",
+      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-014",
-      "nombre": "Retro Merluza 14",
+      "nombre": "Retro Merluza al Vapor",
       "categoria": "ARCHIVO",
-      "precio": "48.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del retro merluza. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "44.99€",
+      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-015",
-      "nombre": "Old School Rodaballo 15",
+      "nombre": "Old School Rodaballo Braseada",
       "categoria": "ARCHIVO",
-      "precio": "50.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del old school rodaballo. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "54.00€",
+      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-016",
-      "nombre": "Clásico Cigala 16",
+      "nombre": "Clásico Cigala Salteada",
       "categoria": "ARCHIVO",
-      "precio": "52.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del clásico cigala. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "61.00€",
+      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-017",
-      "nombre": "Legendario Langosta 17",
+      "nombre": "Legendario Langosta Glaseada",
       "categoria": "ARCHIVO",
-      "precio": "54.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del legendario langosta. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "79.95€",
+      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-018",
-      "nombre": "Primigenio Ostra 18",
+      "nombre": "Primigenio Ostra Rellena",
       "categoria": "ARCHIVO",
-      "precio": "56.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del primigenio ostra. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "28.00€",
+      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-019",
-      "nombre": "Fundacional Mejillón 19",
+      "nombre": "Fundacional Mejillón Agridulce",
       "categoria": "ARCHIVO",
-      "precio": "58.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del fundacional mejillón. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "92.00€",
+      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-020",
-      "nombre": "Histórico Almeja 20",
+      "nombre": "Histórico Almeja Estofada",
       "categoria": "ARCHIVO",
-      "precio": "60.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del histórico almeja. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "87.95€",
+      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-021",
-      "nombre": "Vintage Aceituna 21",
+      "nombre": "Vintage Aceituna Rehogada",
       "categoria": "ARCHIVO",
-      "precio": "62.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del vintage aceituna. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "41.95€",
+      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-022",
-      "nombre": "Curado Denim 22",
+      "nombre": "Curado Denim al Grill",
       "categoria": "ARCHIVO",
-      "precio": "64.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del curado denim. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "49.95€",
+      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-023",
-      "nombre": "Antiguo Bacalao 23",
+      "nombre": "Antiguo Bacalao Pochada",
       "categoria": "ARCHIVO",
-      "precio": "66.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del antiguo bacalao. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "113.00€",
+      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     },
     {
       "id": "CS-A-024",
-      "nombre": "Retro Merluza 24",
+      "nombre": "Retro Merluza Flambeada",
       "categoria": "ARCHIVO",
-      "precio": "68.00€",
-      "descripcion": "Referencia técnica inspirada en la textura del retro merluza. Ideal para el día a día.",
-      "detalles": "Tejido premium, 100% materiales seleccionados, corte industrial.",
-      "envio": "Envío gratuito en 48h."
+      "precio": "116.95€",
+      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote archivo.",
+      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
     }
   ]
 }

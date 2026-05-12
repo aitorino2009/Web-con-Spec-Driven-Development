@@ -15,6 +15,10 @@
 - **Hito de Internacionalización:** Catálogo 100% en diccionarios `es.json` e `en.json`, permitiendo traducción total sin tocar componentes.
 - **Arquitectura Next.js 15 (Hidratación):** Las páginas dinámicas con `params` deben ser Server Components para evitar Hydration Mismatch.
 - **UX de Inspección Técnica:** Sistema de Lightbox con zoom interno para inspección macro-fotográfica.
+- **Fuente de Verdad (Master Inventory):** Uso de `.agent/specs/inventario-maestro.json` como base de datos centralizada para 120 productos, desacoplando la data de la lógica de renderizado.
+- **Sistema de Placeholders:** Solución de diseño para catálogos masivos sin assets visuales. Uso de contenedores `#F2F2F2` con IDs en `Space Mono`.
+- **Identidad Verbal (Nomenclatura):** Regla de oro para nombres de productos: `[Base de Prenda] + [Adjetivo Culinario]` (ej: Camiseta Panko Confitada).
+- **Psicología de Precios:** Uso de precios realistas (`.99`, `.95`) para reforzar la percepción de marca profesional.
 
 ## Paleta de Colores y Estética
 - **Fondo:** #FFFFFF (Blanco)
@@ -27,10 +31,8 @@
 
 ## Estado de Componentes
 - **BarraNavegacion:** COMPLETADO. Sticky, tres zonas flex, fondo primario.
-- **SelectorIdioma:** COMPLETADO. ES | EN funcional.
-- **Logo (RAW STITCH):** COMPLETADO. Estilo Factory Tag.
-- **Hero Brutalista v4.0:** COMPLETADO. Sincronizado con i18n.
-- **EncabezadoSeccion:** COMPLETADO. Soporte para subtítulos y alineación.
-- **GridProductos:** COMPLETADO. Responsivo, conectado a diccionarios y navegación dinámica.
-- **Ficha de Producto (PDP):** COMPLETADO. Server Component, Galería con Lightbox y zoom, Info técnica 100% traducida.
-- **Internacionalización (i18n):** Sistema consolidado para todo el flujo de compra.
+- **Navegación de Categorías:** COMPLETADO. Rutas dinámicas para Novedades, Hombre, Mujer, Básicos y Archivo conectadas al inventario maestro.
+- **GridProductos:** COMPLETADO. Soporta placeholders dinámicos y filtrado por categoría.
+- **Ficha de Producto (PDP) v2.0:** COMPLETADO. Ahora consume del inventario maestro y usa etiquetas i18n globales para los botones y secciones.
+- **Internacionalización (i18n):** Sistema consolidado. Las etiquetas de interfaz (CTA, Secciones) están separadas del contenido del producto.
+- **Inventario Maestro:** 120 referencias activas y categorizadas.
