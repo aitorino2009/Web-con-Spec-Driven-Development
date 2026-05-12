@@ -21,9 +21,7 @@
     - **Tipografía Base:** `Space Mono` (Cuerpo, Navegación e Identidad Técnica). `Alfa Slab One` (Titulares de alto impacto).
 
 
-## Decisiones de Componentes
-- **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`. Spec cerrada. Pendiente: Logo, EnlacesNav, SelectorIdioma y BotonCTA.
-- **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
+- **GridProductos:** EN DESARROLLO. Spec creada. Grid responsivo (1/2/3-4 col) con tarjetas neo-brutalistas. Pendiente: Implementación de componentes y assets de imagen.
 - **Hero Brutalista v4.0 (The Mixed Group):** EN DESARROLLO. Evolución a grupo mixto (2H/2M) con estética premium tech-wear. Spec actualizada. Imagen en cola de generación por límites de capacidad.
 - **Hero Brutalista v3.0 (4K & Estabilidad Visual):** COMPLETADO. Integración de imagen 4K y sombreado atmosférico suave. Se descartaron delineados y strokes para mantener la limpieza editorial.
 - **SelectorIdioma:** COMPLETADO. Componente de cliente minimalista (ES | EN) con diseño Neo-brutalista vibrante. Regla estricta: Negro solo para texto.
