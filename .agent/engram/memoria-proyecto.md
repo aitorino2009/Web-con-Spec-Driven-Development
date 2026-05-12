@@ -11,6 +11,7 @@
 ## Aprendizajes Recientes
 - El usuario prefiere un flujo de trabajo de "Aprendizaje Silencioso".
 - El agente tiene permiso para crear carpetas automáticamente siguiendo la Skill de Estructura.
+- Se ha implementado una nueva Skill especializada en fotografía de producto para e-commerce (`fotos-producto.md`), diferenciándola de la Skill de lifestyle.
 - El usurio decidió esta paleta de colores y estética de diseño:
     - **Fondo:** #FFFFFF (Blanco)
     - **Texto:** #000000 (Negro)

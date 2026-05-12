@@ -37,7 +37,8 @@
 2. **Uso de Skills:**
     - Si la tarea es de estilos, aplica `.agent/skills/estilos.md`.
     - Si la tarea es de archivos, aplica `.agent/skills/estructura-archivos.md`.
-    - Si la tarea es de generación de imágenes, aplica `.agent/skills/generacion-imagenes.md`.
+    - Si la tarea es de generación de imágenes lifestyle, aplica `.agent/skills/generacion-imagenes.md`.
+    - Si la tarea es de generación de fotos de producto, aplica `.agent/skills/fotos-producto.md`.
 3. **Actualización:** Al terminar, resume la decisión en la memoria del proyecto.
 4. **Aprendizaje:** Si aprendiste algo nuevo durante la tarea, actualiza la memoria del proyecto en aprendizajes recientes. Esto incluye correcciones críticas que te haga, decisiones de diseño importantes, nuevas técnicas de desarrollo, etc.
 
