@@ -16,6 +16,61 @@
   },
   "grid": {
     "title": "COLECCIONES RECIÉN REBOZADAS",
-    "subtitle": "BATCH #004 / 2026"
+    "subtitle": "BATCH #004 / 2026",
+    "tag_nuevo": "NOVEDAD"
+  },
+  "productos": {
+    "1": {
+      "nombre": "Sudadera Bechamel",
+      "categoria": "Novedades / Hoodies",
+      "descripcion": "Sudadera con capucha de corte oversize. Fabricada en algodón orgánico de 400 GSM con acabado suave y textura premium. Un básico elevado para el día a día.",
+      "detalles": "80% Algodón orgánico, 20% Poliéster reciclado. Interior cepillado. Costuras reforzadas en hombros y puños. Hecho en España.",
+      "envio": "Envío gratuito en pedidos superiores a 100€. Entrega estimada en 2-4 días laborales.",
+      "cta": "Añadir al Carrito",
+      "tallas": "Seleccionar Talla",
+      "secciones": {
+        "tecnico": "Detalles Técnicos",
+        "envios": "Envíos y Devoluciones"
+      }
+    },
+    "2": {
+      "nombre": "Camiseta Panko Tech",
+      "categoria": "Novedades / Techwear",
+      "descripcion": "Camiseta técnica de alto rendimiento con microperforaciones para máxima transpirabilidad. Diseñada para el movimiento constante.",
+      "detalles": "100% Poliéster técnico. Secado rápido. Costuras planas para evitar roces. Tratamiento antibacteriano.",
+      "envio": "Envío estándar 4.95€. Entrega en 48-72h. Devoluciones gratuitas.",
+      "cta": "Añadir al Carrito",
+      "tallas": "Seleccionar Talla",
+      "secciones": {
+        "tecnico": "Detalles Técnicos",
+        "envios": "Envíos y Devoluciones"
+      }
+    },
+    "3": {
+      "nombre": "Pantalones Rebozados",
+      "categoria": "Novedades / Bottoms",
+      "descripcion": "Pantalones tipo cargo con tejido de alta resistencia. Corte ergonómico y múltiples bolsillos técnicos para máxima utilidad.",
+      "detalles": "Canvas de algodón reforzado con cordura. Cintura ajustable. Rodillas articuladas.",
+      "envio": "Envío gratuito. Entrega en 3-5 días laborales.",
+      "cta": "Añadir al Carrito",
+      "tallas": "Seleccionar Talla",
+      "secciones": {
+        "tecnico": "Detalles Técnicos",
+        "envios": "Envíos y Devoluciones"
+      }
+    },
+    "4": {
+      "nombre": "Gorra Crujiente",
+      "categoria": "Novedades / Accesorios",
+      "descripcion": "Gorra estructural de 6 paneles con bordado premium. Ajuste perfecto y visera precurvada de alta densidad.",
+      "detalles": "100% Sarga de algodón. Bordado de alta densidad. Cierre metálico ajustable.",
+      "envio": "Envío estándar 4.95€. Entrega en 48h.",
+      "cta": "Añadir al Carrito",
+      "tallas": "Seleccionar Talla",
+      "secciones": {
+        "tecnico": "Detalles Técnicos",
+        "envios": "Envíos y Devoluciones"
+      }
+    }
   }
 }

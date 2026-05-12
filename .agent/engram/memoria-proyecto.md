@@ -9,27 +9,28 @@
 - **Uso del Color Negro:** Reservado para texto y elementos estructurales (bordes/sombras). Prohibido en fondos grandes.
 
 ## Aprendizajes Recientes
-- **Pivot de Color:** El usuario ha actualizado el color primario a `#eb955c` (Tono Croqueta), alejándose del verde lima inicial pero manteniendo la estética neo-brutalista.
-- **Arquitectura de Componentes:** Se ha adoptado el uso de Client Components (`'use client'`) de forma estratégica cuando se requiere manejo de eventos (como `onError` para imágenes) o interactividad compleja, manteniendo el resto como Server Components.
-- **SDD (Spec-Driven Development):** Flujo consolidado. Cada sección (Hero, Grid) tiene su Spec técnica antes de la codificación.
-- **Skills de Generación:** Diferenciación clara entre `generacion-imagenes.md` (lifestyle/campaña) y `fotos-producto.md` (e-commerce/producto puro).
+- **Pivot de Color:** El usuario ha actualizado el color primario a `#eb955c` (Tono Croqueta), manteniendo la estética neo-brutalista.
+- **SDD (Spec-Driven Development):** Flujo consolidado. Cada sección tiene su Spec técnica antes de la codificación.
+- **Skills de Generación:** Diferenciación entre `generacion-imagenes.md` (lifestyle) y `fotos-producto.md` (e-commerce).
+- **Hito de Internacionalización:** Catálogo 100% en diccionarios `es.json` e `en.json`, permitiendo traducción total sin tocar componentes.
+- **Arquitectura Next.js 15 (Hidratación):** Las páginas dinámicas con `params` deben ser Server Components para evitar Hydration Mismatch.
+- **UX de Inspección Técnica:** Sistema de Lightbox con zoom interno para inspección macro-fotográfica.
 
 ## Paleta de Colores y Estética
 - **Fondo:** #FFFFFF (Blanco)
 - **Texto:** #000000 (Negro)
-- **Primario:** #eb955c (Naranja Croqueta) - *Actualizado por el usuario*
+- **Primario:** #eb955c (Naranja Croqueta)
 - **Secundario:** #E6FFAC (Verde Lima Suave)
 - **Acento:** #FFD3B4 (Crema)
 - **Estilo:** Neo-brutalismo técnico (Factory Tag). Bordes de 3px, cajas sólidas y tipografía monoespaciada.
 - **Tipografía Base:** `Space Mono` (Técnica) y `Alfa Slab One` (Titulares).
 
 ## Estado de Componentes
-- **GridProductos:** COMPLETADO. Implementado como Client Component. Grid responsivo (1/2/3-4 col) con tarjetas neo-brutalistas e imágenes reales de Krea. Estructura de activos organizada por carpetas por producto para futuras expansiones (hover/galería).
-- **Hero Brutalista v4.0 (The Mixed Group):** EN DESARROLLO. Spec actualizada para grupo mixto (2H/2M). Imagen en cola de generación.
-- **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`.
-- **SelectorIdioma:** COMPLETADO. Componente de cliente (ES | EN).
-- **Logo (RAW STITCH):** COMPLETADO. Diseño 'Factory Tag' con Space Mono 700.
-- **EncabezadoSeccion:** COMPLETADO. Componente reutilizable para títulos de sección. Implementado con soporte para subtítulos (estilo metadatos) e i18n.
-- **Ficha de Producto (PDP):** COMPLETADO. Ruta dinámica `/producto/[id]` con galería interactiva, selector de tallas y acordeones técnicos. Diseño de dos columnas desktop.
-- **Redireccionamiento Raíz:** Implementado en `app/page.tsx`.
-- **Internacionalización (i18n):** Sistema de diccionarios JSON funcionando para Server Components.
+- **BarraNavegacion:** COMPLETADO. Sticky, tres zonas flex, fondo primario.
+- **SelectorIdioma:** COMPLETADO. ES | EN funcional.
+- **Logo (RAW STITCH):** COMPLETADO. Estilo Factory Tag.
+- **Hero Brutalista v4.0:** COMPLETADO. Sincronizado con i18n.
+- **EncabezadoSeccion:** COMPLETADO. Soporte para subtítulos y alineación.
+- **GridProductos:** COMPLETADO. Responsivo, conectado a diccionarios y navegación dinámica.
+- **Ficha de Producto (PDP):** COMPLETADO. Server Component, Galería con Lightbox y zoom, Info técnica 100% traducida.
+- **Internacionalización (i18n):** Sistema consolidado para todo el flujo de compra.
