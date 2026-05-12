@@ -29,5 +29,6 @@
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`.
 - **SelectorIdioma:** COMPLETADO. Componente de cliente (ES | EN).
 - **Logo (RAW STITCH):** COMPLETADO. Diseño 'Factory Tag' con Space Mono 700.
+- **EncabezadoSeccion:** COMPLETADO. Componente reutilizable para títulos de sección. Implementado con soporte para subtítulos (estilo metadatos) e i18n.
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx`.
 - **Internacionalización (i18n):** Sistema de diccionarios JSON funcionando para Server Components.
