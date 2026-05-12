@@ -4,7 +4,7 @@
 **Versión:** 1.0.0
 
 ## 1. Objetivo
-Implementar el menú de navegación central de RAW STITCH, priorizando la sobriedad, la elegancia funcional y la coherencia con la nueva identidad técnica Space Mono.
+Implementar el menú de navegación central de CROQUETAS STITCH, priorizando la sobriedad, la elegancia funcional y la coherencia con la nueva identidad técnica Space Mono.
 
 ## 2. Secciones y Enlaces
 Los enlaces se gestionarán dinámicamente mediante el sistema de internacionalización:

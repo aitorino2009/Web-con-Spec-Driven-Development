@@ -24,6 +24,8 @@
 ## Decisiones de Componentes
 - **BarraNavegacion (Contenedor):** COMPLETADO. `header` sticky con tres zonas flex. Fondo `var(--color-primario)`. Spec cerrada. Pendiente: Logo, EnlacesNav, SelectorIdioma y BotonCTA.
 - **Redireccionamiento Raíz:** Implementado en `app/page.tsx` para redirigir `/` a `/es`.
+- **Hero Brutalista v4.0 (The Mixed Group):** EN DESARROLLO. Evolución a grupo mixto (2H/2M) con estética premium tech-wear. Spec actualizada. Imagen en cola de generación por límites de capacidad.
+- **Hero Brutalista v3.0 (4K & Estabilidad Visual):** COMPLETADO. Integración de imagen 4K y sombreado atmosférico suave. Se descartaron delineados y strokes para mantener la limpieza editorial.
 - **SelectorIdioma:** COMPLETADO. Componente de cliente minimalista (ES | EN) con diseño Neo-brutalista vibrante. Regla estricta: Negro solo para texto.
 - **Internacionalización (i18n):** Implementado sistema nativo de diccionarios JSON (`dictionaries/`) y cargador asíncrono (`lib/get-dictionary.ts`) para Server Components.
 - **Logo (RAW STITCH):** REDISEÑADO. Estilo 'Factory Tag' neo-brutalista técnico puro. Uso de fuente Space Mono 700. La palabra RAW va dentro de una caja negra sólida con texto blanco, y STITCH fuera con letter-spacing de 0.1em. Se eliminaron sombras y efectos 'pegatina'.
