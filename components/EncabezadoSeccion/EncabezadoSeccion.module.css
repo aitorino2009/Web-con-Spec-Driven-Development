@@ -1,0 +1,45 @@
+.contenedor {
+    padding: 60px var(--espaciado-lateral, 5%) 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.left {
+    align-items: flex-start;
+}
+
+.center {
+    align-items: center;
+    text-align: center;
+}
+
+.subtitulo {
+    font-family: 'Space Mono', monospace;
+    font-size: 0.85rem;
+    color: var(--color-primario);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.titulo {
+    font-family: 'Alfa Slab One', serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    text-transform: uppercase;
+    line-height: 1;
+    color: var(--color-texto);
+    margin: 0;
+}
+
+.decoracion {
+    width: 100px;
+    height: 6px;
+    background-color: var(--color-texto);
+    margin-top: 10px;
+}
+
+.center .decoracion {
+    margin-left: auto;
+    margin-right: auto;
+}

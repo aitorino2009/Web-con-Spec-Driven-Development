@@ -15,5 +15,10 @@ Generar imágenes de producto ultra-realistas para el e-commerce de CROQUETAS ST
 -   **CERO Fondos Complejos:** Nada de exteriores, calles o elementos decorativos.
 -   **CERO Distorsión:** La prenda debe verse proporcional y realista.
 
-## Prompt Maestro de Producto
-"Professional 8K e-commerce studio photography of [PRENDA] on a neutral grey background. High resolution, visible fabric texture and premium stitching. Clean, minimalist, professional lighting --v 6.0"
+## Estructura de Almacenamiento
+Las imágenes deben organizarse en carpetas dentro de `public/productos/` siguiendo el patrón:
+`public/productos/[nombre-producto-kebab-case]/[1-4].webp`
+
+Ejemplo:
+- `/productos/sudadera-bechamel-oversize/1.webp` (Imagen principal)
+- `/productos/sudadera-bechamel-oversize/2.webp` (Detalle/Secundaria)
