@@ -12,7 +12,11 @@
 - **Pivot de Color:** El usuario ha actualizado el color primario a `#eb955c` (Tono Croqueta), manteniendo la estética neo-brutalista.
 - **SDD (Spec-Driven Development):** Flujo consolidado. Cada sección tiene su Spec técnica antes de la codificación.
 - **Skills de Generación:** Diferenciación entre `generacion-imagenes.md` (lifestyle) y `fotos-producto.md` (e-commerce).
-- **Hito de Internacionalización:** Catálogo 100% en diccionarios `es.json` e `en.json`, permitiendo traducción total sin tocar componentes.
+- **Hito de Internacionalización (v2.0):** Migración del catálogo masivo (120 productos) de diccionarios JSON externos a una estructura multilingüe nativa dentro del `inventario-maestro.json`. Esto optimiza drásticamente el rendimiento y la carga de la página.
+- **i18n de Alto Rendimiento:** Uso de Server Components y helpers de normalización (`lib/i18n-utils.ts`) para servir solo el idioma necesario, reduciendo el payload del navegador.
+- **Diccionarios de Interfaz:** Los archivos `es.json` y `en.json` se limitan exclusivamente a etiquetas de UI (CTAs, headers, labels), desacoplando el contenido técnico de la interfaz.
+- **Gramática de Marca en Inglés:** Regla de oro para la versión internacional: Inversión de orden `[Adjetivo Culinario] + [Nombre de Prenda]` (ej: "Breaded Pants" en lugar de "Pants Breaded") para mantener el tono premium.
+
 - **Arquitectura Next.js 15 (Hidratación):** Las páginas dinámicas con `params` deben ser Server Components para evitar Hydration Mismatch.
 - **UX de Inspección Técnica:** Sistema de Lightbox con zoom interno para inspección macro-fotográfica.
 - **Fuente de Verdad (Master Inventory):** Uso de `.agent/specs/inventario-maestro.json` como base de datos centralizada para 120 productos, desacoplando la data de la lógica de renderizado.
@@ -34,5 +38,5 @@
 - **Navegación de Categorías:** COMPLETADO. Rutas dinámicas para Novedades, Hombre, Mujer, Básicos y Archivo conectadas al inventario maestro.
 - **GridProductos:** COMPLETADO. Soporta placeholders dinámicos y filtrado por categoría.
 - **Ficha de Producto (PDP) v2.0:** COMPLETADO. Ahora consume del inventario maestro y usa etiquetas i18n globales para los botones y secciones.
-- **Internacionalización (i18n):** Sistema consolidado. Las etiquetas de interfaz (CTA, Secciones) están separadas del contenido del producto.
-- **Inventario Maestro:** 120 referencias activas y categorizadas.
+- **Internacionalización (i18n):** Sistema de alto rendimiento. Las etiquetas de interfaz están en diccionarios, mientras que los 120 productos están localizados directamente en el inventario maestro.
+- **Inventario Maestro v2.0:** 120 referencias multilingües (ES/EN) con reordenamiento gramatical automático para el mercado internacional.

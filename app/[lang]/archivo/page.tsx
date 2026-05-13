@@ -1,18 +1,24 @@
+import { getDictionary } from '@/lib/get-dictionary';
 import ProductGrid from '@/components/ProductGrid/ProductGrid';
 import inventario from '@/.agent/specs/inventario-maestro.json';
 import estilos from '../novedades/categoria.module.css';
+import { getLocalizedProduct } from '@/lib/i18n-utils';
 
 export default async function ArchivoPage({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;
+    const dic = await getDictionary(lang);
     
-    const productos = inventario.productos.filter(p => p.categoria === 'ARCHIVO');
+    const productosBase = inventario.productos.filter(p => p.categoria === 'ARCHIVO');
+    const productos = productosBase.map(p => getLocalizedProduct(p as any, lang));
 
     return (
         <main className={estilos.pagina}>
             <header className={estilos.cabecera}>
-                <h1 className={estilos.titulo}>ARCHIVO // ARCHIVO TÉCNICO</h1>
+                <h1 className={estilos.titulo}>
+                    {dic.categories.archivo} // {dic.categories.suffix}
+                </h1>
             </header>
-            <ProductGrid lang={lang} productos={productos} />
+            <ProductGrid lang={lang} productos={productos as any} />
         </main>
     );
 }

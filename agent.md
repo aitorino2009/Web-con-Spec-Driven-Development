@@ -18,6 +18,7 @@
 1. Cada componente debe vivir en su propia carpeta dentro de `/components`.
 2. Prohibido escribir CSS global; todo estilo debe ser modular.
 3. El agente debe verificar que el archivo .css solo afecte a su archivo .tsx correspondiente.
+4. Cuando se trate de nuevos componentes que aparecerán en la página, el agente debe también traducir el texto del componente al idioma ingles (EN).
 
 # Stack Tecnológico (Ampliación)
 - **Internacionalización (i18n):** Next-intl o i18next (Estructura de diccionarios JSON).

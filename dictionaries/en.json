@@ -19,66 +19,23 @@
     "subtitle": "BATCH #004 / 2026",
     "tag_nuevo": "NEW"
   },
+  "categories": {
+    "novedades": "NEW ARRIVALS",
+    "hombre": "MEN",
+    "mujer": "WOMEN",
+    "basicos": "BASICS",
+    "archivo": "ARCHIVE",
+    "suffix": "TECHNICAL ARCHIVE"
+  },
   "pdp": {
     "cta": "Add to Cart",
     "tallas": "Select Size",
     "secciones": {
       "tecnico": "Technical Details",
       "envios": "Shipping & Returns"
-    }
-  },
-  "productos": {
-    "1": {
-      "nombre": "Bechamel Hoodie",
-      "categoria": "New Arrivals / Hoodies",
-      "descripcion": "Oversized fit hoodie. Made from 400 GSM organic cotton with a soft finish and premium texture. An elevated basic for everyday wear.",
-      "detalles": "80% Organic Cotton, 20% Recycled Polyester. Brushed interior. Reinforced stitching on shoulders and cuffs. Made in Spain.",
-      "envio": "Free shipping on orders over 100€. Estimated delivery in 2-4 business days.",
-      "cta": "Add to Cart",
-      "tallas": "Select Size",
-      "secciones": {
-        "tecnico": "Technical Details",
-        "envios": "Shipping & Returns"
-      }
     },
-    "2": {
-      "nombre": "Panko Tech T-Shirt",
-      "categoria": "New Arrivals / Techwear",
-      "descripcion": "High-performance technical t-shirt with micro-perforations for maximum breathability. Designed for constant movement.",
-      "detalles": "100% Technical Polyester. Quick dry. Flat seams to prevent chafing. Anti-bacterial treatment.",
-      "envio": "Standard shipping 4.95€. Delivery in 48-72h. Free returns.",
-      "cta": "Add to Cart",
-      "tallas": "Select Size",
-      "secciones": {
-        "tecnico": "Technical Details",
-        "envios": "Shipping & Returns"
-      }
-    },
-    "3": {
-      "nombre": "Breaded Cargo Pants",
-      "categoria": "New Arrivals / Bottoms",
-      "descripcion": "Cargo-style pants with high-resistance fabric. Ergonomic cut and multiple technical pockets for maximum utility.",
-      "detalles": "Cordura-reinforced cotton canvas. Adjustable waist. Articulated knees.",
-      "envio": "Free shipping. Delivery in 3-5 business days.",
-      "cta": "Add to Cart",
-      "tallas": "Select Size",
-      "secciones": {
-        "tecnico": "Technical Details",
-        "envios": "Shipping & Returns"
-      }
-    },
-    "4": {
-      "nombre": "Crunchy Cap",
-      "categoria": "New Arrivals / Accessories",
-      "descripcion": "6-panel structural cap with premium embroidery. Perfect fit and high-density pre-curved visor.",
-      "detalles": "100% Cotton twill. High-density embroidery. Adjustable metallic closure.",
-      "envio": "Standard shipping 4.95€. Delivery in 48h.",
-      "cta": "Add to Cart",
-      "tallas": "Select Size",
-      "secciones": {
-        "tecnico": "Technical Details",
-        "envios": "Shipping & Returns"
-      }
-    }
+    "error": "THE REQUESTED BATCH DOES NOT EXIST IN OUR MASTER ARCHIVE",
+    "no_imagen": "TECHNICAL IMAGE NOT AVAILABLE"
   }
 }
+

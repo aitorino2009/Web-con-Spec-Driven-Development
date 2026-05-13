@@ -4,1083 +4,2523 @@
   "productos": [
     {
       "id": "CS-N-001",
-      "nombre": "Sudadera Bechamel Oversize",
+      "nombre": {
+        "es": "Sudadera Bechamel Oversize",
+        "en": "Bechamel Oversize Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "65.00€",
-      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with truffled. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design truffled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-002",
-      "nombre": "Camiseta Panko Tech",
+      "nombre": {
+        "es": "Camiseta Panko Tech",
+        "en": "Panko Tech T-Shirt"
+      },
       "categoria": "NOVEDADES",
       "precio": "35.00€",
-      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with crunchy. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design crunchy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-003",
-      "nombre": "Pantalones Rebozados",
+      "nombre": {
+        "es": "Pantalones Rebozados",
+        "en": "Breaded Pants"
+      },
       "categoria": "NOVEDADES",
       "precio": "85.00€",
-      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with Grandma's Style. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design Grandma's Style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-004",
-      "nombre": "Gorra Crujiente",
+      "nombre": {
+        "es": "Gorra Crujiente",
+        "en": "Crunchy Cap"
+      },
       "categoria": "NOVEDADES",
       "precio": "25.00€",
-      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with spicy. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design spicy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-005",
-      "nombre": "Calcetines Aceite Ahumada",
+      "nombre": {
+        "es": "Calcetines Aceite Ahumada",
+        "en": "Oil Smoked Socks"
+      },
       "categoria": "NOVEDADES",
       "precio": "50.00€",
-      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with smoked. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design smoked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-006",
-      "nombre": "Chaqueta Tempura Gratinada",
+      "nombre": {
+        "es": "Chaqueta Tempura Gratinada",
+        "en": "Tempura Gratin Jacket"
+      },
       "categoria": "NOVEDADES",
       "precio": "79.99€",
-      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with gratin. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design gratin."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-007",
-      "nombre": "Top AirFryer al Horno",
+      "nombre": {
+        "es": "Top AirFryer al Horno",
+        "en": "AirFryer Oven-Baked Top"
+      },
       "categoria": "NOVEDADES",
       "precio": "25.00€",
-      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with oven-baked. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design oven-baked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-008",
-      "nombre": "Shorts Gratinados Maridada",
+      "nombre": {
+        "es": "Shorts Gratinados Maridada",
+        "en": "Gratin Paired Shorts"
+      },
       "categoria": "NOVEDADES",
       "precio": "25.00€",
-      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with paired. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design paired."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-009",
-      "nombre": "Sudadera Curry Confitada",
+      "nombre": {
+        "es": "Sudadera Curry Confitada",
+        "en": "Curry Confit Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "32.95€",
-      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with confit. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design confit."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-010",
-      "nombre": "Hoodie Wasabi Caramelizada",
+      "nombre": {
+        "es": "Hoodie Wasabi Caramelizada",
+        "en": "Wasabi Caramelized Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "33.99€",
-      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with caramelized. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design caramelized."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-011",
-      "nombre": "Sudadera Bechamel Escabechada",
+      "nombre": {
+        "es": "Sudadera Bechamel Escabechada",
+        "en": "Bechamel Pickled Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "32.99€",
-      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with pickled. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design pickled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-012",
-      "nombre": "Camiseta Panko al Ajillo",
+      "nombre": {
+        "es": "Camiseta Panko al Ajillo",
+        "en": "Panko Garlic Style T-Shirt"
+      },
       "categoria": "NOVEDADES",
       "precio": "26.00€",
-      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with garlic style. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design garlic style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-013",
-      "nombre": "Pantalón Rebozado en Salsa",
+      "nombre": {
+        "es": "Pantalón Rebozado en Salsa",
+        "en": "Breaded In Sauce Pants"
+      },
       "categoria": "NOVEDADES",
       "precio": "108.99€",
-      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with in sauce. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design in sauce."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-014",
-      "nombre": "Gorra Crujiente al Vapor",
+      "nombre": {
+        "es": "Gorra Crujiente al Vapor",
+        "en": "Crunchy Steamed Cap"
+      },
       "categoria": "NOVEDADES",
       "precio": "98.95€",
-      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with steamed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design steamed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-015",
-      "nombre": "Calcetines Aceite Braseada",
+      "nombre": {
+        "es": "Calcetines Aceite Braseada",
+        "en": "Oil Braised Socks"
+      },
       "categoria": "NOVEDADES",
       "precio": "69.00€",
-      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with braised. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-016",
-      "nombre": "Chaqueta Tempura Salteada",
+      "nombre": {
+        "es": "Chaqueta Tempura Salteada",
+        "en": "Tempura Sauteed Jacket"
+      },
       "categoria": "NOVEDADES",
       "precio": "49.99€",
-      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with sauteed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sauteed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-017",
-      "nombre": "Top AirFryer Glaseada",
+      "nombre": {
+        "es": "Top AirFryer Glaseada",
+        "en": "AirFryer Glazed Top"
+      },
       "categoria": "NOVEDADES",
       "precio": "109.95€",
-      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with glazed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design glazed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-018",
-      "nombre": "Shorts Gratinados Rellena",
+      "nombre": {
+        "es": "Shorts Gratinados Rellena",
+        "en": "Gratin Stuffed Shorts"
+      },
       "categoria": "NOVEDADES",
       "precio": "96.99€",
-      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with stuffed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stuffed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-019",
-      "nombre": "Sudadera Curry Agridulce",
+      "nombre": {
+        "es": "Sudadera Curry Agridulce",
+        "en": "Curry Sweet and Sour Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "118.95€",
-      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with sweet and sour. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sweet and sour."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-020",
-      "nombre": "Hoodie Wasabi Estofada",
+      "nombre": {
+        "es": "Hoodie Wasabi Estofada",
+        "en": "Wasabi Stewed Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "87.95€",
-      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with stewed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stewed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-021",
-      "nombre": "Sudadera Bechamel Rehogada",
+      "nombre": {
+        "es": "Sudadera Bechamel Rehogada",
+        "en": "Bechamel Braised Hoodie"
+      },
       "categoria": "NOVEDADES",
       "precio": "68.00€",
-      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with braised. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-022",
-      "nombre": "Camiseta Panko al Grill",
+      "nombre": {
+        "es": "Camiseta Panko al Grill",
+        "en": "Panko Grilled T-Shirt"
+      },
       "categoria": "NOVEDADES",
       "precio": "92.95€",
-      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with grilled. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design grilled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-023",
-      "nombre": "Pantalón Rebozado Pochada",
+      "nombre": {
+        "es": "Pantalón Rebozado Pochada",
+        "en": "Breaded Poached Pants"
+      },
       "categoria": "NOVEDADES",
       "precio": "104.00€",
-      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with poached. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design poached."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-N-024",
-      "nombre": "Gorra Crujiente Flambeada",
+      "nombre": {
+        "es": "Gorra Crujiente Flambeada",
+        "en": "Crunchy Flambéed Cap"
+      },
       "categoria": "NOVEDADES",
       "precio": "94.99€",
-      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote novedades.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote novedades.",
+        "en": "Premium technical reference with flambéed. An essential piece from the new arrivals."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design flambéed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-001",
-      "nombre": "Cargo Sofrito Trufada",
+      "nombre": {
+        "es": "Cargo Sofrito Trufada",
+        "en": "Sofrito Truffled Cargo Pants"
+      },
       "categoria": "HOMBRE",
       "precio": "90.95€",
-      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with truffled. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design truffled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-002",
-      "nombre": "Cortavientos Alioli Crujiente",
+      "nombre": {
+        "es": "Cortavientos Alioli Crujiente",
+        "en": "Aioli Crunchy Windbreaker"
+      },
       "categoria": "HOMBRE",
       "precio": "108.99€",
-      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with crunchy. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design crunchy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-003",
-      "nombre": "Chaleco Picatoste de la Abuela",
+      "nombre": {
+        "es": "Chaleco Picatoste de la Abuela",
+        "en": "Crouton Grandma's Style Vest"
+      },
       "categoria": "HOMBRE",
       "precio": "38.99€",
-      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with Grandma's Style. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design Grandma's Style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-004",
-      "nombre": "Vaquero Chorizo Picante",
+      "nombre": {
+        "es": "Vaquero Chorizo Picante",
+        "en": "Chorizo Spicy Jeans"
+      },
       "categoria": "HOMBRE",
       "precio": "56.00€",
-      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with spicy. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design spicy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-005",
-      "nombre": "Jersey Morcilla Ahumada",
+      "nombre": {
+        "es": "Jersey Morcilla Ahumada",
+        "en": "Black Pudding Smoked Sweater"
+      },
       "categoria": "HOMBRE",
       "precio": "110.00€",
-      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with smoked. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design smoked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-006",
-      "nombre": "Bomber Lomo Gratinada",
+      "nombre": {
+        "es": "Bomber Lomo Gratinada",
+        "en": "Pork Loin Gratin Bomber Jacket"
+      },
       "categoria": "HOMBRE",
       "precio": "94.00€",
-      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with gratin. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design gratin."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-007",
-      "nombre": "Camisa Adobo al Horno",
+      "nombre": {
+        "es": "Camisa Adobo al Horno",
+        "en": "Adobo Oven-Baked Shirt"
+      },
       "categoria": "HOMBRE",
       "precio": "88.00€",
-      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with oven-baked. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design oven-baked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-008",
-      "nombre": "Polo Escabeche Maridada",
+      "nombre": {
+        "es": "Polo Escabeche Maridada",
+        "en": "Pickled Paired Polo Shirt"
+      },
       "categoria": "HOMBRE",
       "precio": "103.95€",
-      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with paired. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design paired."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-009",
-      "nombre": "Parka Gazpacho Confitada",
+      "nombre": {
+        "es": "Parka Gazpacho Confitada",
+        "en": "Gazpacho Confit Parka"
+      },
       "categoria": "HOMBRE",
       "precio": "97.99€",
-      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with confit. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design confit."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-010",
-      "nombre": "Chino Salmorejo Caramelizada",
+      "nombre": {
+        "es": "Chino Salmorejo Caramelizada",
+        "en": "Salmorejo Caramelized Chinos"
+      },
       "categoria": "HOMBRE",
       "precio": "71.99€",
-      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with caramelized. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design caramelized."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-011",
-      "nombre": "Cargo Sofrito Escabechada",
+      "nombre": {
+        "es": "Cargo Sofrito Escabechada",
+        "en": "Sofrito Pickled Cargo Pants"
+      },
       "categoria": "HOMBRE",
       "precio": "118.95€",
-      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with pickled. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design pickled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-012",
-      "nombre": "Cortavientos Alioli al Ajillo",
+      "nombre": {
+        "es": "Cortavientos Alioli al Ajillo",
+        "en": "Aioli Garlic Style Windbreaker"
+      },
       "categoria": "HOMBRE",
       "precio": "109.95€",
-      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with garlic style. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design garlic style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-013",
-      "nombre": "Chaleco Picatoste en Salsa",
+      "nombre": {
+        "es": "Chaleco Picatoste en Salsa",
+        "en": "Crouton In Sauce Vest"
+      },
       "categoria": "HOMBRE",
       "precio": "25.95€",
-      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with in sauce. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design in sauce."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-014",
-      "nombre": "Vaquero Chorizo al Vapor",
+      "nombre": {
+        "es": "Vaquero Chorizo al Vapor",
+        "en": "Chorizo Steamed Jeans"
+      },
       "categoria": "HOMBRE",
       "precio": "25.99€",
-      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with steamed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design steamed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-015",
-      "nombre": "Jersey Morcilla Braseada",
+      "nombre": {
+        "es": "Jersey Morcilla Braseada",
+        "en": "Black Pudding Braised Sweater"
+      },
       "categoria": "HOMBRE",
       "precio": "74.99€",
-      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with braised. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-016",
-      "nombre": "Bomber Lomo Salteada",
+      "nombre": {
+        "es": "Bomber Lomo Salteada",
+        "en": "Pork Loin Sauteed Bomber Jacket"
+      },
       "categoria": "HOMBRE",
       "precio": "64.95€",
-      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with sauteed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sauteed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-017",
-      "nombre": "Camisa Adobo Glaseada",
+      "nombre": {
+        "es": "Camisa Adobo Glaseada",
+        "en": "Adobo Glazed Shirt"
+      },
       "categoria": "HOMBRE",
       "precio": "96.00€",
-      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with glazed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design glazed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-018",
-      "nombre": "Polo Escabeche Rellena",
+      "nombre": {
+        "es": "Polo Escabeche Rellena",
+        "en": "Pickled Stuffed Polo Shirt"
+      },
       "categoria": "HOMBRE",
       "precio": "38.99€",
-      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with stuffed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stuffed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-019",
-      "nombre": "Parka Gazpacho Agridulce",
+      "nombre": {
+        "es": "Parka Gazpacho Agridulce",
+        "en": "Gazpacho Sweet and Sour Parka"
+      },
       "categoria": "HOMBRE",
       "precio": "88.00€",
-      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with sweet and sour. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sweet and sour."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-020",
-      "nombre": "Chino Salmorejo Estofada",
+      "nombre": {
+        "es": "Chino Salmorejo Estofada",
+        "en": "Salmorejo Stewed Chinos"
+      },
       "categoria": "HOMBRE",
       "precio": "58.99€",
-      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with stewed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stewed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-021",
-      "nombre": "Cargo Sofrito Rehogada",
+      "nombre": {
+        "es": "Cargo Sofrito Rehogada",
+        "en": "Sofrito Braised Cargo Pants"
+      },
       "categoria": "HOMBRE",
       "precio": "25.99€",
-      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with braised. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-022",
-      "nombre": "Cortavientos Alioli al Grill",
+      "nombre": {
+        "es": "Cortavientos Alioli al Grill",
+        "en": "Aioli Grilled Windbreaker"
+      },
       "categoria": "HOMBRE",
       "precio": "101.99€",
-      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with grilled. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design grilled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-023",
-      "nombre": "Chaleco Picatoste Pochada",
+      "nombre": {
+        "es": "Chaleco Picatoste Pochada",
+        "en": "Crouton Poached Vest"
+      },
       "categoria": "HOMBRE",
       "precio": "37.95€",
-      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with poached. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design poached."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-H-024",
-      "nombre": "Vaquero Chorizo Flambeada",
+      "nombre": {
+        "es": "Vaquero Chorizo Flambeada",
+        "en": "Chorizo Flambéed Jeans"
+      },
       "categoria": "HOMBRE",
       "precio": "96.95€",
-      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote hombre.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote hombre.",
+        "en": "Premium technical reference with flambéed. An essential piece from the men."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design flambéed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-001",
-      "nombre": "Leggings Jamón Trufada",
+      "nombre": {
+        "es": "Leggings Jamón Trufada",
+        "en": "Ham Truffled Leggings"
+      },
       "categoria": "MUJER",
       "precio": "102.95€",
-      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with truffled. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design truffled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-002",
-      "nombre": "Top Bechamel Light Crujiente",
+      "nombre": {
+        "es": "Top Bechamel Light Crujiente",
+        "en": "Bechamel Light Crunchy Top"
+      },
       "categoria": "MUJER",
       "precio": "52.00€",
-      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with crunchy. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design crunchy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-003",
-      "nombre": "Vestido Salmorejo de la Abuela",
+      "nombre": {
+        "es": "Vestido Salmorejo de la Abuela",
+        "en": "Salmorejo Grandma's Style Dress"
+      },
       "categoria": "MUJER",
       "precio": "43.99€",
-      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with Grandma's Style. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design Grandma's Style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-004",
-      "nombre": "Falda Empanada Picante",
+      "nombre": {
+        "es": "Falda Empanada Picante",
+        "en": "Empanada Spicy Skirt"
+      },
       "categoria": "MUJER",
       "precio": "35.00€",
-      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with spicy. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design spicy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-005",
-      "nombre": "Mono Paella Ahumada",
+      "nombre": {
+        "es": "Mono Paella Ahumada",
+        "en": "Paella Smoked Jumpsuit"
+      },
       "categoria": "MUJER",
       "precio": "74.95€",
-      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with smoked. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design smoked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-006",
-      "nombre": "Cárdigan Lentejas Gratinada",
+      "nombre": {
+        "es": "Cárdigan Lentejas Gratinada",
+        "en": "Lentils Gratin Cardigan"
+      },
       "categoria": "MUJER",
       "precio": "112.99€",
-      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with gratin. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design gratin."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-007",
-      "nombre": "Blusa Fabada al Horno",
+      "nombre": {
+        "es": "Blusa Fabada al Horno",
+        "en": "Fabada Oven-Baked Blouse"
+      },
       "categoria": "MUJER",
       "precio": "104.99€",
-      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with oven-baked. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design oven-baked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-008",
-      "nombre": "Trench Cocido Maridada",
+      "nombre": {
+        "es": "Trench Cocido Maridada",
+        "en": "Stew Paired Trench Coat"
+      },
       "categoria": "MUJER",
       "precio": "95.99€",
-      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with paired. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design paired."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-009",
-      "nombre": "Bikini Marmitaco Confitada",
+      "nombre": {
+        "es": "Bikini Marmitaco Confitada",
+        "en": "Marmitaco Confit Bikini"
+      },
       "categoria": "MUJER",
       "precio": "107.95€",
-      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with confit. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design confit."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-010",
-      "nombre": "Corsé Pulpo Caramelizada",
+      "nombre": {
+        "es": "Corsé Pulpo Caramelizada",
+        "en": "Octopus Caramelized Corset"
+      },
       "categoria": "MUJER",
       "precio": "76.99€",
-      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with caramelized. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design caramelized."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-011",
-      "nombre": "Leggings Jamón Escabechada",
+      "nombre": {
+        "es": "Leggings Jamón Escabechada",
+        "en": "Ham Pickled Leggings"
+      },
       "categoria": "MUJER",
       "precio": "27.00€",
-      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with pickled. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design pickled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-012",
-      "nombre": "Top Bechamel Light al Ajillo",
+      "nombre": {
+        "es": "Top Bechamel Light al Ajillo",
+        "en": "Bechamel Light Garlic Style Top"
+      },
       "categoria": "MUJER",
       "precio": "25.95€",
-      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with garlic style. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design garlic style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-013",
-      "nombre": "Vestido Salmorejo en Salsa",
+      "nombre": {
+        "es": "Vestido Salmorejo en Salsa",
+        "en": "Salmorejo In Sauce Dress"
+      },
       "categoria": "MUJER",
       "precio": "105.00€",
-      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with in sauce. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design in sauce."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-014",
-      "nombre": "Falda Empanada al Vapor",
+      "nombre": {
+        "es": "Falda Empanada al Vapor",
+        "en": "Empanada Steamed Skirt"
+      },
       "categoria": "MUJER",
       "precio": "113.00€",
-      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with steamed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design steamed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-015",
-      "nombre": "Mono Paella Braseada",
+      "nombre": {
+        "es": "Mono Paella Braseada",
+        "en": "Paella Braised Jumpsuit"
+      },
       "categoria": "MUJER",
       "precio": "33.99€",
-      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with braised. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-016",
-      "nombre": "Cárdigan Lentejas Salteada",
+      "nombre": {
+        "es": "Cárdigan Lentejas Salteada",
+        "en": "Lentils Sauteed Cardigan"
+      },
       "categoria": "MUJER",
       "precio": "115.95€",
-      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with sauteed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sauteed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-017",
-      "nombre": "Blusa Fabada Glaseada",
+      "nombre": {
+        "es": "Blusa Fabada Glaseada",
+        "en": "Fabada Glazed Blouse"
+      },
       "categoria": "MUJER",
       "precio": "26.99€",
-      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with glazed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design glazed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-018",
-      "nombre": "Trench Cocido Rellena",
+      "nombre": {
+        "es": "Trench Cocido Rellena",
+        "en": "Stew Stuffed Trench Coat"
+      },
       "categoria": "MUJER",
       "precio": "27.99€",
-      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with stuffed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stuffed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-019",
-      "nombre": "Bikini Marmitaco Agridulce",
+      "nombre": {
+        "es": "Bikini Marmitaco Agridulce",
+        "en": "Marmitaco Sweet and Sour Bikini"
+      },
       "categoria": "MUJER",
       "precio": "68.00€",
-      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with sweet and sour. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sweet and sour."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-020",
-      "nombre": "Corsé Pulpo Estofada",
+      "nombre": {
+        "es": "Corsé Pulpo Estofada",
+        "en": "Octopus Stewed Corset"
+      },
       "categoria": "MUJER",
       "precio": "27.95€",
-      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with stewed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stewed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-021",
-      "nombre": "Leggings Jamón Rehogada",
+      "nombre": {
+        "es": "Leggings Jamón Rehogada",
+        "en": "Ham Braised Leggings"
+      },
       "categoria": "MUJER",
       "precio": "99.00€",
-      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with braised. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-022",
-      "nombre": "Top Bechamel Light al Grill",
+      "nombre": {
+        "es": "Top Bechamel Light al Grill",
+        "en": "Bechamel Light Grilled Top"
+      },
       "categoria": "MUJER",
       "precio": "30.00€",
-      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with grilled. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design grilled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-023",
-      "nombre": "Vestido Salmorejo Pochada",
+      "nombre": {
+        "es": "Vestido Salmorejo Pochada",
+        "en": "Salmorejo Poached Dress"
+      },
       "categoria": "MUJER",
       "precio": "36.95€",
-      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with poached. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design poached."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-M-024",
-      "nombre": "Falda Empanada Flambeada",
+      "nombre": {
+        "es": "Falda Empanada Flambeada",
+        "en": "Empanada Flambéed Skirt"
+      },
       "categoria": "MUJER",
       "precio": "103.00€",
-      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote mujer.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote mujer.",
+        "en": "Premium technical reference with flambéed. An essential piece from the women."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design flambéed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-001",
-      "nombre": "Camiseta Harina Trufada",
+      "nombre": {
+        "es": "Camiseta Harina Trufada",
+        "en": "Flour Truffled T-Shirt"
+      },
       "categoria": "BÁSICOS",
       "precio": "87.99€",
-      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with truffled. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design truffled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-002",
-      "nombre": "Sudadera Huevo Crujiente",
+      "nombre": {
+        "es": "Sudadera Huevo Crujiente",
+        "en": "Egg Crunchy Hoodie"
+      },
       "categoria": "BÁSICOS",
       "precio": "67.95€",
-      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with crunchy. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design crunchy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-003",
-      "nombre": "Pantalón Sal de la Abuela",
+      "nombre": {
+        "es": "Pantalón Sal de la Abuela",
+        "en": "Salt Grandma's Style Pants"
+      },
       "categoria": "BÁSICOS",
       "precio": "42.95€",
-      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with Grandma's Style. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design Grandma's Style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-004",
-      "nombre": "Top Aceite Picante",
+      "nombre": {
+        "es": "Top Aceite Picante",
+        "en": "Oil Spicy Top"
+      },
       "categoria": "BÁSICOS",
       "precio": "30.99€",
-      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with spicy. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design spicy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-005",
-      "nombre": "Gorro Vinagre Ahumada",
+      "nombre": {
+        "es": "Gorro Vinagre Ahumada",
+        "en": "Gorro Vinegar Smoked"
+      },
       "categoria": "BÁSICOS",
       "precio": "49.95€",
-      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with smoked. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design smoked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-006",
-      "nombre": "Body Agua Gratinada",
+      "nombre": {
+        "es": "Body Agua Gratinada",
+        "en": "Water Gratin Body Suit"
+      },
       "categoria": "BÁSICOS",
       "precio": "106.00€",
-      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with gratin. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design gratin."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-007",
-      "nombre": "Malla Azúcar al Horno",
+      "nombre": {
+        "es": "Malla Azúcar al Horno",
+        "en": "Sugar Oven-Baked Leggings"
+      },
       "categoria": "BÁSICOS",
       "precio": "81.95€",
-      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with oven-baked. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design oven-baked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-008",
-      "nombre": "Jersey Leche Maridada",
+      "nombre": {
+        "es": "Jersey Leche Maridada",
+        "en": "Milk Paired Sweater"
+      },
       "categoria": "BÁSICOS",
       "precio": "87.00€",
-      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with paired. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design paired."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-009",
-      "nombre": "Camiseta Mantequilla Confitada",
+      "nombre": {
+        "es": "Camiseta Mantequilla Confitada",
+        "en": "Butter Confit T-Shirt"
+      },
       "categoria": "BÁSICOS",
       "precio": "51.95€",
-      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with confit. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design confit."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-010",
-      "nombre": "Hoodie Levadura Caramelizada",
+      "nombre": {
+        "es": "Hoodie Levadura Caramelizada",
+        "en": "Yeast Caramelized Hoodie"
+      },
       "categoria": "BÁSICOS",
       "precio": "97.95€",
-      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with caramelized. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design caramelized."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-011",
-      "nombre": "Camiseta Harina Escabechada",
+      "nombre": {
+        "es": "Camiseta Harina Escabechada",
+        "en": "Flour Pickled T-Shirt"
+      },
       "categoria": "BÁSICOS",
       "precio": "108.95€",
-      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with pickled. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design pickled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-012",
-      "nombre": "Sudadera Huevo al Ajillo",
+      "nombre": {
+        "es": "Sudadera Huevo al Ajillo",
+        "en": "Egg Garlic Style Hoodie"
+      },
       "categoria": "BÁSICOS",
       "precio": "103.99€",
-      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with garlic style. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design garlic style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-013",
-      "nombre": "Pantalón Sal en Salsa",
+      "nombre": {
+        "es": "Pantalón Sal en Salsa",
+        "en": "Salt In Sauce Pants"
+      },
       "categoria": "BÁSICOS",
       "precio": "78.95€",
-      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with in sauce. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design in sauce."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-014",
-      "nombre": "Top Aceite al Vapor",
+      "nombre": {
+        "es": "Top Aceite al Vapor",
+        "en": "Oil Steamed Top"
+      },
       "categoria": "BÁSICOS",
       "precio": "98.99€",
-      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with steamed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design steamed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-015",
-      "nombre": "Gorro Vinagre Braseada",
+      "nombre": {
+        "es": "Gorro Vinagre Braseada",
+        "en": "Gorro Vinegar Braised"
+      },
       "categoria": "BÁSICOS",
       "precio": "67.00€",
-      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with braised. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-016",
-      "nombre": "Body Agua Salteada",
+      "nombre": {
+        "es": "Body Agua Salteada",
+        "en": "Water Sauteed Body Suit"
+      },
       "categoria": "BÁSICOS",
       "precio": "69.00€",
-      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with sauteed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sauteed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-017",
-      "nombre": "Malla Azúcar Glaseada",
+      "nombre": {
+        "es": "Malla Azúcar Glaseada",
+        "en": "Sugar Glazed Leggings"
+      },
       "categoria": "BÁSICOS",
       "precio": "106.95€",
-      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with glazed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design glazed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-018",
-      "nombre": "Jersey Leche Rellena",
+      "nombre": {
+        "es": "Jersey Leche Rellena",
+        "en": "Milk Stuffed Sweater"
+      },
       "categoria": "BÁSICOS",
       "precio": "90.00€",
-      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with stuffed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stuffed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-019",
-      "nombre": "Camiseta Mantequilla Agridulce",
+      "nombre": {
+        "es": "Camiseta Mantequilla Agridulce",
+        "en": "Butter Sweet and Sour T-Shirt"
+      },
       "categoria": "BÁSICOS",
       "precio": "33.99€",
-      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with sweet and sour. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sweet and sour."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-020",
-      "nombre": "Hoodie Levadura Estofada",
+      "nombre": {
+        "es": "Hoodie Levadura Estofada",
+        "en": "Yeast Stewed Hoodie"
+      },
       "categoria": "BÁSICOS",
       "precio": "72.00€",
-      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with stewed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stewed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-021",
-      "nombre": "Camiseta Harina Rehogada",
+      "nombre": {
+        "es": "Camiseta Harina Rehogada",
+        "en": "Flour Braised T-Shirt"
+      },
       "categoria": "BÁSICOS",
       "precio": "87.00€",
-      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with braised. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-022",
-      "nombre": "Sudadera Huevo al Grill",
+      "nombre": {
+        "es": "Sudadera Huevo al Grill",
+        "en": "Egg Grilled Hoodie"
+      },
       "categoria": "BÁSICOS",
       "precio": "61.99€",
-      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with grilled. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design grilled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-023",
-      "nombre": "Pantalón Sal Pochada",
+      "nombre": {
+        "es": "Pantalón Sal Pochada",
+        "en": "Salt Poached Pants"
+      },
       "categoria": "BÁSICOS",
       "precio": "105.99€",
-      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with poached. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design poached."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-B-024",
-      "nombre": "Top Aceite Flambeada",
+      "nombre": {
+        "es": "Top Aceite Flambeada",
+        "en": "Oil Flambéed Top"
+      },
       "categoria": "BÁSICOS",
       "precio": "117.95€",
-      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote básicos.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote básicos.",
+        "en": "Premium technical reference with flambéed. An essential piece from the basics."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design flambéed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-001",
-      "nombre": "Vintage Aceituna Trufada",
+      "nombre": {
+        "es": "Vintage Aceituna Trufada",
+        "en": "Olive Truffled Vintage"
+      },
       "categoria": "ARCHIVO",
       "precio": "113.00€",
-      "descripcion": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado trufada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with truffled. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico trufada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design truffled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-002",
-      "nombre": "Curado Denim Crujiente",
+      "nombre": {
+        "es": "Curado Denim Crujiente",
+        "en": "Denim Crunchy Cured"
+      },
       "categoria": "ARCHIVO",
       "precio": "110.99€",
-      "descripcion": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado crujiente. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with crunchy. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico crujiente.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design crunchy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-003",
-      "nombre": "Antiguo Bacalao de la Abuela",
+      "nombre": {
+        "es": "Antiguo Bacalao de la Abuela",
+        "en": "Cod Grandma's Style Antique"
+      },
       "categoria": "ARCHIVO",
       "precio": "99.99€",
-      "descripcion": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado de la abuela. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with Grandma's Style. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico de la abuela.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design Grandma's Style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-004",
-      "nombre": "Retro Merluza Picante",
+      "nombre": {
+        "es": "Retro Merluza Picante",
+        "en": "Hake Spicy Retro"
+      },
       "categoria": "ARCHIVO",
       "precio": "80.95€",
-      "descripcion": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado picante. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with spicy. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico picante.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design spicy."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-005",
-      "nombre": "Old School Rodaballo Ahumada",
+      "nombre": {
+        "es": "Old School Rodaballo Ahumada",
+        "en": "Old School Turbot Smoked"
+      },
       "categoria": "ARCHIVO",
       "precio": "70.95€",
-      "descripcion": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado ahumada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with smoked. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico ahumada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design smoked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-006",
-      "nombre": "Clásico Cigala Gratinada",
+      "nombre": {
+        "es": "Clásico Cigala Gratinada",
+        "en": "Norway Lobster Gratin Classic"
+      },
       "categoria": "ARCHIVO",
       "precio": "37.95€",
-      "descripcion": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado gratinada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with gratin. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico gratinada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design gratin."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-007",
-      "nombre": "Legendario Langosta al Horno",
+      "nombre": {
+        "es": "Legendario Langosta al Horno",
+        "en": "Lobster Oven-Baked Legendary"
+      },
       "categoria": "ARCHIVO",
       "precio": "64.99€",
-      "descripcion": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al horno. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with oven-baked. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al horno.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design oven-baked."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-008",
-      "nombre": "Primigenio Ostra Maridada",
+      "nombre": {
+        "es": "Primigenio Ostra Maridada",
+        "en": "Oyster Paired Primal"
+      },
       "categoria": "ARCHIVO",
       "precio": "44.00€",
-      "descripcion": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado maridada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with paired. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico maridada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design paired."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-009",
-      "nombre": "Fundacional Mejillón Confitada",
+      "nombre": {
+        "es": "Fundacional Mejillón Confitada",
+        "en": "Mussel Confit Foundational"
+      },
       "categoria": "ARCHIVO",
       "precio": "92.95€",
-      "descripcion": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado confitada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with confit. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico confitada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design confit."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-010",
-      "nombre": "Histórico Almeja Caramelizada",
+      "nombre": {
+        "es": "Histórico Almeja Caramelizada",
+        "en": "Clam Caramelized Historical"
+      },
       "categoria": "ARCHIVO",
       "precio": "60.99€",
-      "descripcion": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado caramelizada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with caramelized. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico caramelizada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design caramelized."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-011",
-      "nombre": "Vintage Aceituna Escabechada",
+      "nombre": {
+        "es": "Vintage Aceituna Escabechada",
+        "en": "Olive Pickled Vintage"
+      },
       "categoria": "ARCHIVO",
       "precio": "79.99€",
-      "descripcion": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado escabechada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with pickled. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico escabechada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design pickled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-012",
-      "nombre": "Curado Denim al Ajillo",
+      "nombre": {
+        "es": "Curado Denim al Ajillo",
+        "en": "Denim Garlic Style Cured"
+      },
       "categoria": "ARCHIVO",
       "precio": "113.99€",
-      "descripcion": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al ajillo. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with garlic style. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al ajillo.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design garlic style."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-013",
-      "nombre": "Antiguo Bacalao en Salsa",
+      "nombre": {
+        "es": "Antiguo Bacalao en Salsa",
+        "en": "Cod In Sauce Antique"
+      },
       "categoria": "ARCHIVO",
       "precio": "47.00€",
-      "descripcion": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado en salsa. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with in sauce. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico en salsa.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design in sauce."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-014",
-      "nombre": "Retro Merluza al Vapor",
+      "nombre": {
+        "es": "Retro Merluza al Vapor",
+        "en": "Hake Steamed Retro"
+      },
       "categoria": "ARCHIVO",
       "precio": "44.99€",
-      "descripcion": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al vapor. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with steamed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al vapor.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design steamed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-015",
-      "nombre": "Old School Rodaballo Braseada",
+      "nombre": {
+        "es": "Old School Rodaballo Braseada",
+        "en": "Old School Turbot Braised"
+      },
       "categoria": "ARCHIVO",
       "precio": "54.00€",
-      "descripcion": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado braseada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with braised. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico braseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-016",
-      "nombre": "Clásico Cigala Salteada",
+      "nombre": {
+        "es": "Clásico Cigala Salteada",
+        "en": "Norway Lobster Sauteed Classic"
+      },
       "categoria": "ARCHIVO",
       "precio": "61.00€",
-      "descripcion": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado salteada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with sauteed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico salteada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sauteed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-017",
-      "nombre": "Legendario Langosta Glaseada",
+      "nombre": {
+        "es": "Legendario Langosta Glaseada",
+        "en": "Lobster Glazed Legendary"
+      },
       "categoria": "ARCHIVO",
       "precio": "79.95€",
-      "descripcion": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado glaseada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with glazed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico glaseada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design glazed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-018",
-      "nombre": "Primigenio Ostra Rellena",
+      "nombre": {
+        "es": "Primigenio Ostra Rellena",
+        "en": "Oyster Stuffed Primal"
+      },
       "categoria": "ARCHIVO",
       "precio": "28.00€",
-      "descripcion": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rellena. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with stuffed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rellena.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stuffed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-019",
-      "nombre": "Fundacional Mejillón Agridulce",
+      "nombre": {
+        "es": "Fundacional Mejillón Agridulce",
+        "en": "Mussel Sweet and Sour Foundational"
+      },
       "categoria": "ARCHIVO",
       "precio": "92.00€",
-      "descripcion": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado agridulce. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with sweet and sour. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico agridulce.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design sweet and sour."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-020",
-      "nombre": "Histórico Almeja Estofada",
+      "nombre": {
+        "es": "Histórico Almeja Estofada",
+        "en": "Clam Stewed Historical"
+      },
       "categoria": "ARCHIVO",
       "precio": "87.95€",
-      "descripcion": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado estofada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with stewed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico estofada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design stewed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-021",
-      "nombre": "Vintage Aceituna Rehogada",
+      "nombre": {
+        "es": "Vintage Aceituna Rehogada",
+        "en": "Olive Braised Vintage"
+      },
       "categoria": "ARCHIVO",
       "precio": "41.95€",
-      "descripcion": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado rehogada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with braised. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico rehogada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design braised."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-022",
-      "nombre": "Curado Denim al Grill",
+      "nombre": {
+        "es": "Curado Denim al Grill",
+        "en": "Denim Grilled Cured"
+      },
       "categoria": "ARCHIVO",
       "precio": "49.95€",
-      "descripcion": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado al grill. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with grilled. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico al grill.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design grilled."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-023",
-      "nombre": "Antiguo Bacalao Pochada",
+      "nombre": {
+        "es": "Antiguo Bacalao Pochada",
+        "en": "Cod Poached Antique"
+      },
       "categoria": "ARCHIVO",
       "precio": "113.00€",
-      "descripcion": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado pochada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with poached. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico pochada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design poached."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     },
     {
       "id": "CS-A-024",
-      "nombre": "Retro Merluza Flambeada",
+      "nombre": {
+        "es": "Retro Merluza Flambeada",
+        "en": "Hake Flambéed Retro"
+      },
       "categoria": "ARCHIVO",
       "precio": "116.95€",
-      "descripcion": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote archivo.",
-      "detalles": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
-      "envio": "Envío estándar gratuito en pedidos superiores a 100€."
+      "descripcion": {
+        "es": "Referencia técnica premium con acabado flambeada. Una pieza indispensable del lote archivo.",
+        "en": "Premium technical reference with flambéed. An essential piece from the archive."
+      },
+      "detalles": {
+        "es": "Materiales de alta densidad. Resistencia al lavado industrial. Diseño ergonómico flambeada.",
+        "en": "High-density materials. Industrial wash resistance. Ergonomic design flambéed."
+      },
+      "envio": {
+        "es": "Envío estándar gratuito en pedidos superiores a 100€.",
+        "en": "Free standard shipping on orders over 100€."
+      }
     }
   ]
 }
