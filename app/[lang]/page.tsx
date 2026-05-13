@@ -3,6 +3,7 @@ import Hero from '@/components/Hero/Hero';
 import ProductGrid from '@/components/ProductGrid/ProductGrid';
 import EncabezadoSeccion from '@/components/EncabezadoSeccion/EncabezadoSeccion';
 import inventario from '@/.agent/specs/inventario-maestro.json';
+import { getLocalizedProduct } from '@/lib/i18n-utils';
 
 export default async function PaginaInicio({ params }: { params: Promise<{ lang: string }> }) {
     const { lang } = await params;
@@ -16,24 +17,19 @@ export default async function PaginaInicio({ params }: { params: Promise<{ lang:
         'CS-N-004': '/productos/gorra-crujiente/1.webp'
     };
 
-    const PRODUCT_PRICES: Record<string, string> = {
-        'CS-N-001': '65.00€',
-        'CS-N-002': '35.00€',
-        'CS-N-003': '85.00€',
-        'CS-N-004': '25.00€'
-    };
-
     // Obtenemos los productos destacados desde el inventario maestro
     const productosDestacados = ['CS-N-001', 'CS-N-002', 'CS-N-003', 'CS-N-004'].map(id => {
         const pBase = inventario.productos.find(p => p.id === id);
+        if (!pBase) return null;
+        
+        const pLocalizado = getLocalizedProduct(pBase as any, lang);
+        
         return {
-            id,
-            nombre: pBase?.nombre || 'Producto',
-            precio: PRODUCT_PRICES[id],
+            ...pLocalizado,
             imagen: PRODUCT_IMAGES[id],
             tag: dic.grid.tag_nuevo
         };
-    });
+    }).filter(p => p !== null);
 
     return (
         <main>
@@ -47,4 +43,5 @@ export default async function PaginaInicio({ params }: { params: Promise<{ lang:
         </main>
     );
 }
+
 
