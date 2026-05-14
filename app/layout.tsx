@@ -25,9 +25,19 @@ const alfaSlabOne = Alfa_Slab_One({
 });
 
 export const metadata: Metadata = {
-    title: 'Aprendizaje con IA',
-    description: 'Proyecto de aprendizaje con desarrollo guiado por especificaciones (SDD).',
+    title: {
+        template: '%s | CROQUETAS STITCH',
+        default: 'CROQUETAS STITCH',
+    },
+
+    description: 'La vanguardia de la moda culinaria neo-brutalista. Ropa técnica inspirada en la fritura perfecta.',
+    icons: {
+        icon: '/favicon.png',
+    },
 };
+
+
+
 
 export default function LayoutRaiz({
     children,
