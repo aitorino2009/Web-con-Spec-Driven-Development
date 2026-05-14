@@ -14,16 +14,38 @@
     font-weight: 700;
     font-size: 0.9rem;
     text-transform: uppercase;
-    transition: opacity 0.2s ease-in-out;
+    transition: all 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     display: inline-block;
+    padding: 0.4rem 0.8rem;
+    border: 2px solid transparent; /* Reserva espacio para el borde */
 }
 
-.enlace:hover {
-    text-decoration: underline;
-    text-underline-offset: 8px;
-    text-decoration-thickness: 1px;
+.enlace:hover:not(.activo) {
+    background-color: var(--color-secundario);
+    color: #000000;
+    border: var(--borde-grueso);
+    transform: translate(-3px, -3px);
+    box-shadow: var(--sombra-solida);
+}
+
+
+.activo {
+    background-color: var(--color-primario);
+    color: var(--color-texto);
+    border: var(--borde-grueso);
+    padding: 0.4rem 0.8rem;
+    box-shadow: 3px 3px 0px var(--color-texto); /* Sombra técnica más pequeña para el tag */
+    text-decoration: none;
+}
+
+.activo:hover {
+    text-decoration: none;
+    transform: translate(-2px, -2px);
+    box-shadow: var(--sombra-solida); /* Sombra completa en hover */
 }
 
 .enlace:active {
     opacity: 0.7;
 }
+
+

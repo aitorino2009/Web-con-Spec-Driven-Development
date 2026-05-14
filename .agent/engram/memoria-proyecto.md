@@ -36,7 +36,13 @@
 ## Estado de Componentes
 - **BarraNavegacion:** COMPLETADO. Sticky, tres zonas flex, fondo primario.
 - **Navegación de Categorías:** COMPLETADO. Rutas dinámicas para Novedades, Hombre, Mujer, Básicos y Archivo conectadas al inventario maestro.
+- **Navegación Principal (UI):** COMPLETADO. Implementado estado activo con estética "Factory Tag" usando `usePathname` y cumpliendo estrictamente con la Skill de Estilos (tokens de diseño).
 - **GridProductos:** COMPLETADO. Soporta placeholders dinámicos y filtrado por categoría.
 - **Ficha de Producto (PDP) v2.0:** COMPLETADO. Ahora consume del inventario maestro y usa etiquetas i18n globales para los botones y secciones.
 - **Internacionalización (i18n):** Sistema de alto rendimiento. Las etiquetas de interfaz están en diccionarios, mientras que los 120 productos están localizados directamente en el inventario maestro.
-- **Inventario Maestro v2.0:** 120 referencias multilingües (ES/EN) con reordenamiento gramatical automático para el mercado internacional.
+- **Inventario Maestro v2.0:** 120 referencias multilingües (ES/EN) con reordenamiento gramatical automático para el mercado internacional.
+
+## Últimos Aprendizajes
+- **Rigor en Protocolos:** La importancia de sincronizar las Specs (`.agent/specs/`) antes de codificar para evitar derivas técnicas y asegurar que los subcomponentes cumplen con las Skills (ej. evitar `!important` y usar tokens de diseño).
+- **Detección de Ruta Activa:** El uso de `usePathname` en Client Components es la forma estándar y eficiente de gestionar el feedback visual de navegación en Next.js 15.
+

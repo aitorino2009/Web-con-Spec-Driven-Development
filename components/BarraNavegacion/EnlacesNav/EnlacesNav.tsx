@@ -1,4 +1,7 @@
+'use client';
+
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import estilos from './EnlacesNav.module.css';
 
 interface Props {
@@ -15,8 +18,11 @@ interface Props {
 /**
  * EnlacesNav: Componente de navegación central.
  * Renderiza los enlaces principales de la marca con un diseño sobrio y funcional.
+ * Ahora detecta la ruta activa para resaltar la sección actual.
  */
 export default function EnlacesNav({ dicc, lang }: Props) {
+  const pathname = usePathname();
+
   const links = [
     { key: 'novedades', path: '/novedades' },
     { key: 'hombre', path: '/hombre' },
@@ -27,13 +33,22 @@ export default function EnlacesNav({ dicc, lang }: Props) {
 
   return (
     <ul className={estilos.lista}>
-      {links.map((link) => (
-        <li key={link.key}>
-          <Link href={`/${lang}${link.path}`} className={estilos.enlace}>
-            {dicc[link.key as keyof typeof dicc]}
-          </Link>
-        </li>
-      ))}
+      {links.map((link) => {
+        const href = `/${lang}${link.path}`;
+        const esActivo = pathname === href;
+
+        return (
+          <li key={link.key}>
+            <Link 
+              href={href} 
+              className={`${estilos.enlace} ${esActivo ? estilos.activo : ''}`}
+            >
+              {dicc[link.key as keyof typeof dicc]}
+            </Link>
+          </li>
+        );
+      })}
     </ul>
   );
 }
+
